@@ -6,7 +6,7 @@
         {
             "label": "Serve Drafts",
             "type": "shell",
-            "command": "hugo server -D",
+            "command": "hugo server -D --navigateToChanged",
             "group": {
                 "kind": "test",
                 "isDefault": true
@@ -17,7 +17,7 @@
         {
             "label": "Build",
             "type": "shell",
-            "command": "hugo",
+            "command": "git submodule update --remote --merge && hugo",
             "group": {
                 "kind": "build",
                 "isDefault": true
