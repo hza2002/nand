@@ -11,9 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Blog"
+name = "Posts"
 pageRef = "posts"
 weight = 10
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 20
+
+[[main]]
+name = "History"
+pageRef = "history"
+weight = 20
 
 [[main]]
 identifier = "github"
@@ -72,4 +82,4 @@ weight = 20
 [[footer]]
 name = "Authors"
 pageRef = "authors"
-weight = 20
+weight = 30

@@ -1,30 +1,10 @@
-disabled = false
 languageCode = "zh-cn"
-languageName = "简体中文"
+languageName = "中文"
 weight = 1
-title = "NandFun"
+title = "Nand Fun"
 
 [params]
-  displayName = "简体中文"
-  isoCode = "zh-cn"
-  rtl = false
-  dateFormat = "2006-01-02"
-  logo = "img/author.png"
-  secondaryLogo = "img/secondary-logo.png"
-  description = "一个强大、轻量级的 Hugo 主题。"
-  # copyright = "Copy, _right?_ :thinking_face:"
-  copyright = "© 2024 Nand.fun, bytes and logic, all rights reserved."
-
-[params.author]
-  name = "按点下班"
-  email = "hza2002@foxmail.com"
-  image = "img/blowfish_logo.png"
-  imageQuality = 96
-  headline = "一个强大、轻量级的 Hugo 主题。"
-  bio = "一个强大、轻量级的 Hugo 主题。"
-  links = [
-    { github = "https://github.com/hza2002/nand" },
-    { email = "mailto:hza2002@foxmail.com" },
-    { x-twitter = "https://twitter.com/BillHza" },
-    { link = "https://nand.fun" },
-  ]
+displayName = "简体中文"
+isoCode = "zh-cn"
+rtl = false
+dateFormat = "2006-01-02"

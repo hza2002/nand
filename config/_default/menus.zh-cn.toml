@@ -11,9 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "文档"
+name = "博客"
 pageRef = "posts"
 weight = 10
+
+[[main]]
+name = "关于"
+pageRef = "about"
+weight = 20
+
+[[main]]
+name = "经验"
+pageRef = "history"
+weight = 20
 
 [[main]]
 identifier = "github"
@@ -38,4 +48,10 @@ weight = 20
 [[footer]]
 name = "作者"
 pageRef = "authors"
-weight = 20
+weight = 30
+
+[[footer]]
+pre = "rss"
+name = "RSS"
+url = "https://www.eallion.com/rss"
+weight = 99

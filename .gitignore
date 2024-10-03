@@ -18,6 +18,7 @@
 
 ### Hugo ###
 # Generated files by hugo
+/sources/
 /public/
 /resources/_gen/
 /assets/jsconfig.json
