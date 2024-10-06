@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mermaid on Nand Fun</title><link>https://nand.fun/en/tags/mermaid/</link><description>Recent content in Mermaid on Nand Fun</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hza2002@foxmail.com (按点下班)</managingEditor><webMaster>hza2002@foxmail.com (按点下班)</webMaster><copyright>© 2021 - 2024 &lt;span class='inline-block'>&lt;a href='https://nand.fun' target='_blank'>All Rights Reserved.&lt;/a>&lt;/span> &lt;span class='inline-block'>&lt;a href='https://icp.gov.moe/?keyword=20246233' target='_blank'>萌ICP备20246233号&lt;/a>&lt;/span></copyright><atom:link href="https://nand.fun/en/tags/mermaid/index.xml" rel="self" type="application/rss+xml"/><item><title>Shortcodes</title><link>https://nand.fun/en/posts/shortcodes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/shortcodes/</guid><description>&lt;p>In addition to all the &lt;a href="https://gohugo.io/content-management/shortcodes/" target="_blank">default Hugo shortcodes&lt;/a>, Blowfish adds a few extras for additional functionality.&lt;/p>
+&lt;h2 class="relative group">Alert
+&lt;div id="alert" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#alert" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>&lt;code>alert&lt;/code> outputs its contents as a stylised message box within your article. It&amp;rsquo;s useful for drawing attention to important information that you don&amp;rsquo;t want the reader to miss.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/shortcodes/featured.svg"/></item></channel></rss>
