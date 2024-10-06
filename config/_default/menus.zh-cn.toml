@@ -16,42 +16,55 @@ pageRef = "posts"
 weight = 10
 
 [[main]]
-name = "关于"
-pageRef = "about"
+name = "好物"
+pageRef = "goods"
 weight = 20
 
 [[main]]
-name = "经验"
-pageRef = "history"
-weight = 20
+name = "书影音"
+url = "https://neodb.social/users/hza2002"
+weight = 30
+
+[[main]]
+name = "关于"
+pageRef = "about"
+weight = 97
 
 [[main]]
 identifier = "github"
 pre = "github"
 url = "https://github.com/hza2002/nand"
-weight = 30
+weight = 98
+
+[[main]]
+pre = "rss"
+url = "https://www.nand.fun/index.xml"
+weight = 99
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
+pre = "tag"
 name = "标签"
 pageRef = "tags"
 weight = 10
 
 [[footer]]
+pre = "bars"
 name = "分类"
 pageRef = "categories"
 weight = 20
 
 [[footer]]
-name = "作者"
-pageRef = "authors"
-weight = 30
+pre = "circle-info"
+name = "状态"
+url = "https://stats.uptimerobot.com/71CFCySdtt"
+weight = 60
 
 [[footer]]
 pre = "rss"
 name = "RSS"
-url = "https://www.eallion.com/rss"
+url = "https://www.nand.fun/index.xml"
 weight = 99

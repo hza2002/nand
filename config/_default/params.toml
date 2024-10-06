@@ -6,7 +6,7 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme = "blowfish"
-defaultAppearance = "dark"  # valid options: light or dark
+defaultAppearance = "dark"   # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
@@ -19,22 +19,22 @@ mainSections = ["posts"]
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "img/background.svg"
-defaultFeaturedImage = "img/featured.svg"
+defaultBackgroundImage = "images/background.svg"
+defaultFeaturedImage = "images/featured.svg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
 
-logo = "img/logo/logo-title-white.png"
-secondaryLogo = "img/logo/logo-title-black.png"
+logo = "images/logo/logo-title-white.png"
+secondaryLogo = "images/logo/logo-title-black.png"
 description = "New And Novel Discoveries"
 copyright = "© 2021 - { year } <span class='inline-block'><a href='https://nand.fun' target='_blank'>All Rights Reserved.</a></span> <span class='inline-block'><a href='https://icp.gov.moe/?keyword=20246233' target='_blank'>萌ICP备20246233号</a></span>"
 
 [author]
 name = "按点下班"
 email = "hza2002@foxmail.com"
-image = "img/author.png"
+image = "images/author.png"
 imageQuality = 96
 headline = "New And Novel Discoveries"
 bio = "Work to live, don't live to work"
@@ -42,8 +42,8 @@ links = [
   { email = "mailto:hza2002@foxmail.com" },
   { github = "https://github.com/hza2002" },
   { bilibili = "https://space.bilibili.com/437223130" },
-  { x-twitter = "https://twitter.com/BillHza" },
   { steam = "https://steamcommunity.com/id/hza2002" },
+  { monkeytype = "https://monkeytype.com/profile/hza2002" },
   { link = "https://nand.fun" },
 ]
 
@@ -66,7 +66,7 @@ showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = true # only used when layout equals background
+layoutBackgroundBlur = true  # only used when layout equals background
 
 [article]
 showDate = true
@@ -77,9 +77,9 @@ showDateUpdated = false
 showAuthor = true
 # showAuthorBottom = false
 showHero = true
-heroStyle = "background"                            # valid options: basic, big, background, thumbAndBackground
-layoutBackgroundBlur = true                         # only used when heroStyle equals background or thumbAndBackground
-layoutBackgroundHeaderSpace = true                 # only used when heroStyle equals background
+heroStyle = "background"                                      # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true                                   # only used when heroStyle equals background or thumbAndBackground
+layoutBackgroundHeaderSpace = true                            # only used when heroStyle equals background
 showBreadcrumbs = true
 showDraftLabel = true
 showEdit = true
