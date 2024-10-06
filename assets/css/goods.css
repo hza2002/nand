@@ -1,0 +1,113 @@
+/* goods -------- start */
+:root {
+    --code-bg: rgb(245, 245, 245); /* 定义变量，便于背景色的管理 */
+}
+
+.dark {
+    --code-bg: #3b3d42; /* 暗黑模式的背景颜色 */
+}
+
+#goods {
+    display: grid;
+    grid-gap: 2rem; /* 子项之间的间距 */
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* 自适应布局，每列最小200px，最大填满空间 */
+    margin-bottom: 1rem; /* 底部外边距 */
+}
+
+.goods-container {
+    border-radius: 8px; /* 圆角 */
+    background: var(--code-bg); /* 使用主题背景色 */
+    padding: 16px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.04); /* 轻微阴影效果 */
+}
+
+.goods-image {
+    min-height: 164px;
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+}
+
+.goods-image figure {
+    margin: 0; /* 去除 figure 元素的默认外边距 */
+}
+
+.goods-image img {
+    width: 80%; /* 图片占容器的 80% 宽度 */
+    margin: 0 auto;
+    transition: transform 0.2s ease-in-out; /* 图片放大效果的过渡 */
+    cursor: pointer;
+}
+
+.goods-image:hover img {
+    transform: scale(1.1); /* 悬浮时图片放大 */
+}
+
+.goods-title {
+    font-size: 0.875rem; /* 字体大小 */
+    margin: 0;
+    transition: 0.5s; /* 文字样式的渐变 */
+}
+
+.goods-title a {
+    font-size: 0.875rem;
+    text-decoration: none; /* 去除下划线 */
+}
+
+.goods-info, .goods-note {
+    font-family: 'DINPro', monospace !important; /* 使用等宽字体 */
+    color: #999;
+    font-size: 0.875rem; /* 文字大小 */
+    line-height: 1.4rem; /* 行高 */
+}
+
+.goods-info-container {
+    display: flex;
+    justify-content: space-between; /* 左右对齐 */
+    align-items: center;
+}
+
+/* 响应式调整 */
+@media (max-width: 700px) {
+    .goods-title {
+        margin: 0 10px !important; /* 边距缩小 */
+    }
+
+    .goods-info, .goods-note {
+        margin: 0 10px;
+    }
+
+    .goods-image img {
+        width: 50%; /* 缩小图片尺寸 */
+    }
+
+    .goods-note {
+        margin-top: 8px;
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width: 900px) {
+    .goods-title, .goods-title a {
+        font-size: 0.875rem; /* 保持字体一致 */
+    }
+}
+
+@media (min-width: 900px) {
+    .goods-title, .goods-title a {
+        font-size: 16px; /* 更大的字体 */
+    }
+
+    .goods-note {
+        margin-top: 0.5rem;
+    }
+
+    .goods-image img {
+        width: 80%; /* 恢复图片大小 */
+    }
+
+    .goods-container:hover img {
+        transform: scale(1.1); /* 图片放大效果 */
+    }
+}
+/* goods -------- end */
