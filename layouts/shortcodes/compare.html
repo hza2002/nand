@@ -1,0 +1,34 @@
+{{/*  js  */}}
+{{ $twentytwentyJs := resources.Match "js/twentytwenty/*.js" | resources.Concat "js/twentytwentyJs.js" | resources.Minify | resources.Fingerprint "sha512" }}
+<script type="text/javascript" src="{{ $twentytwentyJs.RelPermalink }}" integrity="{{ $twentytwentyJs.Data.Integrity }}"></script>
+
+{{/*  css  */}}
+{{ $twentytwentyCss := resources.Get "css/twentytwenty.css" | resources.Minify | resources.Fingerprint "sha512" }}
+<link rel="stylesheet" href="{{ $twentytwentyCss.RelPermalink }}" integrity="{{ $twentytwentyCss.Data.Integrity }}" />
+
+{{/*  https://github.com/zurb/twentytwenty  */}}
+<div class="twentytwenty-container">
+{{/*  处理 "before" 图片  */}}
+{{- $beforePath := .Get "before" }}
+{{- $beforeResource := $.Page.Resources.GetMatch $beforePath }}
+<img src="{{ $beforeResource.RelPermalink }}" alt="Before" style="margin: 0 0 0 0;" />
+{{/*  处理 "after" 图片  */}}
+{{- $afterPath := .Get "after" }}
+{{- $afterResource := $.Page.Resources.GetMatch $afterPath }}
+<img src="{{ $afterResource.RelPermalink }}" alt="After" style="margin: 0 0 0 0;" />
+</div>
+
+<script>
+    $(function() {
+        $(".twentytwenty-container").twentytwenty({
+            default_offset_pct: {{ .Get "default_offset_pct" | default 0.5 }}, //  How much of the before image is visible when the page loads
+            orientation: {{ .Get "orientation" | default "horizontal" }}, //  Orientation of the before and after images ('horizontal' or 'vertical')
+            before_label: {{ .Get "before_label" | default "Before" }}, //  Set a custom before label
+            after_label: {{ .Get "after_label" | default "After" }}, // Set a custom after label
+            no_overlay: {{ .Get "no_overlay" | default false }}, // Do not show the overlay with before and after
+            move_slider_on_hover: {{ .Get "move_slider_on_hover" | default false }}, // Move slider on mouse hover?
+            move_with_handle_only: {{ .Get "move_with_handle_only" | default false }}, // Allow a user to swipe anywhere on the image to control slider movement.
+            click_to_move: {{ .Get "click_to_move" | default true }}, // Allow a user to click (or tap) anywhere on the image to move the slider to that location.
+        });
+    });
+</script>
