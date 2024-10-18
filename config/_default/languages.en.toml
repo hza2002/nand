@@ -1,0 +1,9 @@
+languageCode = "en"
+languageName = "EN"
+weight = 2
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"

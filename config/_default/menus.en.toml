@@ -1,0 +1,76 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+#
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+name = "Posts"
+pageRef = "posts"
+weight = 10
+
+[[main]]
+name = "Goods"
+pageRef = "goods"
+weight = 20
+
+[[main]]
+name = "Media"
+url = "https://neodb.social/users/hza2002"
+weight = 30
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 97
+
+[[main]]
+identifier = "github"
+pre = "github"
+url = "https://github.com/hza2002/nand"
+weight = 98
+
+[[main]]
+pre = "rss"
+url = "https://www.nand.fun/en/index.xml"
+weight = 99
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[footer]]
+pre = "tag"
+name = "Tags"
+pageRef = "tags"
+weight = 10
+
+[[footer]]
+pre = "bars"
+name = "Categories"
+pageRef = "categories"
+weight = 20
+
+[[footer]]
+pre = "list"
+name = "Series"
+pageRef = "series"
+weight = 30
+
+[[footer]]
+pre = "circle-info"
+name = "Status"
+url = "https://stats.uptimerobot.com/71CFCySdtt"
+weight = 60
+
+[[footer]]
+pre = "rss"
+name = "RSS"
+url = "https://www.nand.fun/en/index.xml"
+weight = 99

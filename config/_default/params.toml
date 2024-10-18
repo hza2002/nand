@@ -1,0 +1,177 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/configuration/#theme-parameters
+
+colorScheme = "blowfish"
+defaultAppearance = "dark"   # valid options: light or dark
+autoSwitchAppearance = false
+
+enableSearch = true
+enableCodeCopy = true
+
+replyByEmail = false
+
+mainSections = ["posts"]
+
+disableImageOptimization = false
+disableTextInHeader = false
+
+defaultBackgroundImage = "images/background.svg"
+defaultFeaturedImage = "images/featured.svg"
+
+highlightCurrentMenuArea = true
+smartTOC = true
+smartTOCHideUnfocusedChildren = false
+
+logo = "images/logo/logo-word-white.webp"
+secondaryLogo = "images/logo/logo-word-black.webp"
+description = "New And Novel Discoveries"
+copyright = "© 2021 - { year } <span class='inline-block'><a href='https://nand.fun' target='_blank'>All Rights Reserved.</a></span> <span class='inline-block'><a href='https://icp.gov.moe/?keyword=20246233' target='_blank'>萌ICP备20246233号</a></span>"
+
+[author]
+name = "按点下班"
+email = "hza2002@foxmail.com"
+image = "images/author.webp"
+imageQuality = 96
+headline = "New And Novel Discoveries"
+bio = "Work to live, don't live to work"
+links = [
+  { email = "mailto:hza2002@foxmail.com" },
+  { github = "https://github.com/hza2002" },
+  { bilibili = "https://space.bilibili.com/437223130" },
+  { steam = "https://steamcommunity.com/id/hza2002" },
+  { monkeytype = "https://monkeytype.com/profile/hza2002" },
+  { link = "https://nand.fun" },
+]
+
+[header]
+layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "background" # valid options: page, profile, hero, card, background, custom
+#homepageImage = "IMAGE.jpg" # used in: hero, and card
+showRecent = true
+showRecentItems = 9
+showMoreLink = true
+showMoreLinkDest = "/posts/"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true  # only used when layout equals background
+
+[article]
+showDate = true
+showViews = false
+showLikes = false
+showDateOnlyInArticle = false
+showDateUpdated = false
+showAuthor = true
+showAuthorBottom = false
+showHero = true
+heroStyle = "background"                                      # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true                                   # only used when heroStyle equals background or thumbAndBackground
+layoutBackgroundHeaderSpace = true                            # only used when heroStyle equals background
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = true
+editURL = "https://github.com/hza2002/nand/blob/main/content"
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = true
+invertPagination = false
+showReadingTime = true
+showTableOfContents = true
+showRelatedContent = false
+relatedContentLimit = 6
+showTaxonomies = true
+showAuthorsBadges = false
+showWordCount = true
+# sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+showZenMode = true
+
+[list]
+showHero = true
+heroStyle = "background"            # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true         # only used when heroStyle equals background or thumbAndBackground
+layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
+showBreadcrumbs = false
+showSummary = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+showCards = false
+orderByWeight = true
+groupByYear = true
+cardView = true
+cardViewScreenWidth = false
+constrainItemsWidth = false
+
+[sitemap]
+excludedKinds = []
+
+[taxonomy]
+showTermCount = true
+showHero = true
+heroStyle = "background"   # valid options: basic, big, background, thumbAndBackground
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+cardView = false
+
+[term]
+showHero = true
+heroStyle = "background"    # valid options: basic, big, background, thumbAndBackground
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = true
+cardViewScreenWidth = false
+
+[firebase]
+# apiKey = "XXXXXX"
+# authDomain = "XXXXXX"
+# projectId = "XXXXXX"
+# storageBucket = "XXXXXX"
+# messagingSenderId = "XXXXXX"
+# appId = "XXXXXX"
+# measurementId = "XXXXXX"
+
+[fathomAnalytics]
+# site = "ABC12345"
+# domain = "llama.yoursite.com"
+
+[umamiAnalytics]
+# websiteid = "ABC12345"
+# domain = "llama.yoursite.com"
+# dataDomains = "yoursite.com,yoursite2.com"
+# enableTrackEvent = true
+
+[selineAnalytics]
+# token = "XXXXXX"
+# enableTrackEvent = true
+
+[buymeacoffee]
+# identifier = ""
+# globalWidget = true
+# globalWidgetMessage = "Hello"
+# globalWidgetColor = "#FFDD00"
+# globalWidgetPosition = "Right"
+
+[verification]
+# google = ""
+# bing = ""
+# pinterest = ""
+# yandex = ""
