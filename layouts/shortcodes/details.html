@@ -1,0 +1,10 @@
+{{/*  css  */}}
+{{ $detailsCss := resources.Get "css/details.css" | resources.Minify | resources.Fingerprint "sha512" }}
+<link rel="stylesheet" href="{{ $detailsCss.RelPermalink }}" integrity="{{ $detailsCss.Data.Integrity }}" />
+
+{{- $open := .Get "open" | default false -}}
+
+<details class="custom-details" {{ with $open }}open{{ end }}>
+<summary>{{ .Get "summary" }}</summary>
+{{ .Inner }}
+</details>
