@@ -1,0 +1,1 @@
+.custom-details summary{font-weight:700;margin:-.5em -.5em 0;padding:.5em;cursor:pointer}.custom-details{border:1px solid #aaa;border-radius:4px;padding:.5em .5em 0}.custom-details[open]{padding:.5em}.custom-details[open] summary{border-bottom:1px solid #aaa;margin-bottom:.5em}

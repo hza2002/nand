@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>概率 on</title><link>https://nand.fun/tags/%E6%A6%82%E7%8E%87/</link><description>Recent content in 概率 on</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>hza2002@foxmail.com (按点下班)</managingEditor><webMaster>hza2002@foxmail.com (按点下班)</webMaster><copyright>© 2021 - 2024 &lt;span class='inline-block'>&lt;a href='https://nand.fun' target='_blank'>All Rights Reserved.&lt;/a>&lt;/span> &lt;span class='inline-block'>&lt;a href='https://icp.gov.moe/?keyword=20246233' target='_blank'>萌ICP备20246233号&lt;/a>&lt;/span></copyright><lastBuildDate>Sun, 08 Jan 2023 14:08:24 +0800</lastBuildDate><atom:link href="https://nand.fun/tags/%E6%A6%82%E7%8E%87/index.xml" rel="self" type="application/rss+xml"/><item><title>百囚问题</title><link>https://nand.fun/posts/100-prisoners-problem/</link><pubDate>Sun, 08 Jan 2023 14:08:24 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/posts/100-prisoners-problem/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+百囚徒挑战是一个反直觉的问题，它描述了一个看似不可能的事件：100 名囚犯有概率地做同一件事，只有全部囚犯都做成了，他们才能生存下去。这个问题实际上有一种合理的实现方法，将其概率提高近 &lt;strong>30 个数量级&lt;/strong>。
+&lt;/div>
+&lt;h2 class="relative group">问题描述
+&lt;div id="%E9%97%AE%E9%A2%98%E6%8F%8F%E8%BF%B0" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E9%97%AE%E9%A2%98%E6%8F%8F%E8%BF%B0" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>百囚问题是概率论和组合数学中的一个数学问题。在这个问题中，100 名编号囚犯必须在 100 个抽屉中找到自己的号码才能生存。规则规定，每个囚犯只能打开 50 个抽屉，不能与其他囚犯交流。丹麦计算机科学家 &lt;em>&lt;strong>Peter Bro Miltersen&lt;/strong>&lt;/em> 于 2003 年首次提出了这个问题。作为这个问题的升级版本，将有 \(2N\) 名囚犯。他们对应的 \(2N\) 个号码卡被洗牌并放置在 \(2N\) 个抽屉中。每个囚犯最多只能打开一半的抽屉，找到对应自己号码的号码卡。所有囚犯将分别进入房间，任何一个囚犯的失败都会导致整个挑战的失败，囚犯获胜的最大概率是多少?&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/100-prisoners-problem/features.svg"/></item></channel></rss>

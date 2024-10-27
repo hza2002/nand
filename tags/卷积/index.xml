@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>卷积 on</title><link>https://nand.fun/tags/%E5%8D%B7%E7%A7%AF/</link><description>Recent content in 卷积 on</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>hza2002@foxmail.com (按点下班)</managingEditor><webMaster>hza2002@foxmail.com (按点下班)</webMaster><copyright>© 2021 - 2024 &lt;span class='inline-block'>&lt;a href='https://nand.fun' target='_blank'>All Rights Reserved.&lt;/a>&lt;/span> &lt;span class='inline-block'>&lt;a href='https://icp.gov.moe/?keyword=20246233' target='_blank'>萌ICP备20246233号&lt;/a>&lt;/span></copyright><lastBuildDate>Tue, 10 Jan 2023 12:27:57 +0800</lastBuildDate><atom:link href="https://nand.fun/tags/%E5%8D%B7%E7%A7%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>图像处理中的线性代数</title><link>https://nand.fun/posts/linear-algebra-in-imaging/</link><pubDate>Tue, 10 Jan 2023 12:27:57 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/posts/linear-algebra-in-imaging/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+图像是由一个一个像素点组成的，处理图像的本质就是处理这些像素点。像素之间的关联性是重要的信息，不能完全把像素点割裂开来，这一点也正是众多图像算法的出发点。卷积（Convolution）是数学中的一种常用的运算。在图像处理中，它通过将图像和卷积核进行运算来改变图像的细节。图像的卷积或滤波操作在各种场合应用很普遍，如各种滤镜、卷积神经网络等。本文将将通过图像滤波，探讨在图像处理领域的卷积中应用的线性代数知识。
+&lt;/div>
+&lt;h2 class="relative group">图像处理介绍
+&lt;div id="%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%BB%8B%E7%BB%8D" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E4%BB%8B%E7%BB%8D" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>图像处理是指对图像进行分析、加工和处理，使其满足视觉、心理或其他要求的技术。图像处理是信号处理在图像领域上的一个应用。目前大多数的图像均是以数码形式存储，因而图像处理很多情况下指数字图像处理。此外，基于光学理论的处理方法依然占有重要的地位。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/linear-algebra-in-imaging/feature.jpeg"/></item></channel></rss>
