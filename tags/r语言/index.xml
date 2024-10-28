@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>R语言 on</title><link>https://nand.fun/tags/r%E8%AF%AD%E8%A8%80/</link><description>Recent content in R语言 on</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>hza2002@foxmail.com (按点下班)</managingEditor><webMaster>hza2002@foxmail.com (按点下班)</webMaster><copyright>© 2021 - 2024 &lt;span class='inline-block'>&lt;a href='https://nand.fun' target='_blank'>All Rights Reserved.&lt;/a>&lt;/span> &lt;span class='inline-block'>&lt;a href='https://icp.gov.moe/?keyword=20246233' target='_blank'>萌ICP备20246233号&lt;/a>&lt;/span></copyright><lastBuildDate>Wed, 22 Jun 2022 01:23:48 +0800</lastBuildDate><atom:link href="https://nand.fun/tags/r%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml"/><item><title>乳腺癌预测模型</title><link>https://nand.fun/posts/breast-cancer-prediction/</link><pubDate>Wed, 22 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/posts/breast-cancer-prediction/</guid><description>&lt;blockquote>
+&lt;p>数据来源：&lt;a href="https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset" target="_blank">乳腺癌预测数据集&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;h2 class="relative group">简介
+&lt;div id="%E7%AE%80%E4%BB%8B" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E7%AE%80%E4%BB%8B" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>全球范围内，乳腺癌是女性最常见的癌症类型，在死亡率方面排名第二。当发现异常肿块（来自自我检查或X光）或看到钙质小点（在X光片上）时，就会进行乳腺癌的诊断。在发现可疑肿块后，医生将进行诊断以确定是否为癌症，如果是，是否已扩散到身体的其他部位。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/breast-cancer-prediction/feature.jpg"/></item><item><title>美国监狱死亡情况</title><link>https://nand.fun/posts/jail-deaths-in-america/</link><pubDate>Tue, 21 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/posts/jail-deaths-in-america/</guid><description>&lt;blockquote>
+&lt;p>数据来源：&lt;a href="https://www.reuters.com/investigates/special-report/usa-jails-graphic/" target="_blank">美国监狱死亡事件：_Dying Inside_的数据和关键发现&lt;/a>&lt;/p>
+&lt;p>包含美国750名及以上囚犯的大型监狱数据。为确保涵盖全国死亡人数，它还包括了每个州前10大监狱的数据&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/jail-deaths-in-america/feature.webp"/></item><item><title>粉丝最多的50个推特号</title><link>https://nand.fun/posts/top-50-twitter-accounts/</link><pubDate>Mon, 20 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/posts/top-50-twitter-accounts/</guid><description>&lt;blockquote>
+&lt;p>Data source: &lt;a href="https://www.kaggle.com/datasets/hassanshehzadk/top-50-most-followed-twitter-accounts?resource=download" target="_blank">Top 50 Most Followed Twitter Accounts&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;h2 class="relative group">简介
+&lt;div id="%E7%AE%80%E4%BB%8B" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E7%AE%80%E4%BB%8B" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>数据列出了&lt;strong>Twitter&lt;/strong>上最受关注的50个账户，每个总数四舍五入到最近的十万，以及每个用户的职业或活动。账户总数和排名月度变化最后更新于&lt;strong>2022年5月12日&lt;/strong>。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/top-50-twitter-accounts/feature.svg"/></item><item><title>二氧化碳排放量估算</title><link>https://nand.fun/posts/carbon-dioxide-emission-estimates/</link><pubDate>Sun, 19 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/posts/carbon-dioxide-emission-estimates/</guid><description>&lt;blockquote>
+&lt;p>数据来源：&lt;a href="http://data.un.org/_Docs/SYB/CSV/SYB64_310_202110_Carbon%20Dioxide%20Emission%20Estimates.csv" target="_blank">Carbon Dioxide Emission Estimates&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;h2 class="relative group">简介
+&lt;div id="%E7%AE%80%E4%BB%8B" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E7%AE%80%E4%BB%8B" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>数据来源于&lt;a href="http://data.un.org/default.aspx" target="_blank">undata&lt;/a>。最后更新于2021年11月1日。它包含了几年来世界各国总碳排放量和人均碳排放量。由于国家数量众多，在本数据分析中，我们仅选择了九个国家，即中国、美国、法国、德国、加拿大、意大利、日本、英国和奥地利。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/carbon-dioxide-emission-estimates/feature.jpg"/></item></channel></rss>

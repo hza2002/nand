@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Analysis on</title><link>https://nand.fun/en/tags/data-analysis/</link><description>Recent content in Data Analysis on</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hza2002@foxmail.com (按点下班)</managingEditor><webMaster>hza2002@foxmail.com (按点下班)</webMaster><copyright>© 2021 - 2024 &lt;span class='inline-block'>&lt;a href='https://nand.fun' target='_blank'>All Rights Reserved.&lt;/a>&lt;/span> &lt;span class='inline-block'>&lt;a href='https://icp.gov.moe/?keyword=20246233' target='_blank'>萌ICP备20246233号&lt;/a>&lt;/span></copyright><lastBuildDate>Wed, 22 Jun 2022 01:23:48 +0800</lastBuildDate><atom:link href="https://nand.fun/en/tags/data-analysis/index.xml" rel="self" type="application/rss+xml"/><item><title>Breast Cancer Prediction</title><link>https://nand.fun/en/posts/breast-cancer-prediction/</link><pubDate>Wed, 22 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/breast-cancer-prediction/</guid><description>&lt;blockquote>
+&lt;p>Data source: &lt;a href="https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset" target="_blank">Breast Cancer Prediction Dataset&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Worldwide, breast cancer is the most common type of cancer in women and the second highest in terms of mortality rates.Diagnosis of breast cancer is performed when an abnormal lump is found (from self-examination or x-ray) or a tiny speck of calcium is seen (on an x-ray). After a suspicious lump is found, the doctor will conduct a diagnosis to determine whether it is cancerous and, if so, whether it has spread to other parts of the body. &lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/breast-cancer-prediction/feature.jpg"/></item><item><title>Jail Deaths In America</title><link>https://nand.fun/en/posts/jail-deaths-in-america/</link><pubDate>Tue, 21 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/jail-deaths-in-america/</guid><description>&lt;blockquote>
+&lt;p>Data sources:&lt;a href="https://www.reuters.com/investigates/special-report/usa-jails-graphic/" target="_blank">Jail deaths in America: data and key findings of &lt;em>Dying Inside&lt;/em>&lt;/a>&lt;/p>
+&lt;p>It contains data on large prisons with 750 or more prisoners in the United States. In order to ensure that it checked the number of deaths across the country, it also included data on the 10 largest prisons in each state.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/jail-deaths-in-america/feature.webp"/></item><item><title>Top 50 Most Followed Twitter Accounts</title><link>https://nand.fun/en/posts/top-50-twitter-accounts/</link><pubDate>Mon, 20 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/top-50-twitter-accounts/</guid><description>&lt;blockquote>
+&lt;p>Data source: &lt;a href="https://www.kaggle.com/datasets/hassanshehzadk/top-50-most-followed-twitter-accounts?resource=download" target="_blank">Top 50 Most Followed Twitter Accounts&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The data lists the top 50 most-followed accounts on &lt;strong>Twitter&lt;/strong>, with each total rounded to the nearest hundred thousand, as well as the profession or activity of each user. Account totals and monthly changes in the ranking were last updated on &lt;strong>May 12, 2022&lt;/strong>.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/top-50-twitter-accounts/feature.svg"/></item><item><title>Carbon Dioxide Emission Estimates</title><link>https://nand.fun/en/posts/carbon-dioxide-emission-estimates/</link><pubDate>Sun, 19 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/carbon-dioxide-emission-estimates/</guid><description>&lt;blockquote>
+&lt;p>Data source: &lt;a href="http://data.un.org/_Docs/SYB/CSV/SYB64_310_202110_Carbon%20Dioxide%20Emission%20Estimates.csv" target="_blank">Carbon Dioxide Emission Estimates&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;h2 class="relative group">Introduction
+&lt;div id="introduction" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>The data comes from &lt;a href="http://data.un.org/default.aspx" target="_blank">undata&lt;/a>. Last updated on November 1, 2021. It contains the total carbon emissions and per capita carbon emissions of various countries in the world for several years.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/carbon-dioxide-emission-estimates/feature.jpg"/></item></channel></rss>
