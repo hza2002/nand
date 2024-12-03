@@ -174,79 +174,79 @@ aria-label="Slide 12">&lt;/button>
 &lt;div class="relative float-left -mr-[100%] w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item data-twe-carousel-active >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/01.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 0"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/01.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 0"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/02.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 1"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/02.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 1"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/03.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 2"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/03.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 2"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/04.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 3"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/04.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 3"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/05.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 4"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/05.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 4"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/06.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 5"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/06.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 5"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/07.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 6"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/07.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 6"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/08.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 7"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/08.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 7"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/09.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 8"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/09.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 8"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/10.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 9"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/10.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 9"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/11.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 10"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/11.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 10"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/12.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 11"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/12.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 11"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/13.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 12"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/13.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 12"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -329,19 +329,19 @@ aria-label="Slide 2">&lt;/button>
 &lt;div class="relative float-left -mr-[100%] w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item data-twe-carousel-active >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/01.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 0"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/01.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 0"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/02.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 1"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/02.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 1"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/03.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 2"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/03.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 2"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -418,15 +418,15 @@ style="text-decoration-line: none !important;" href="#general" aria-label="Ancho
 class="my-0 rounded-md"
 loading="lazy"
 srcset="
-/posts/owl-keyboard-materials/rubber_hu10935296704199840800.jpeg 330w,
-/posts/owl-keyboard-materials/rubber_hu17180990174193757498.jpeg 660w,
-/posts/owl-keyboard-materials/rubber_hu907560469648247562.jpeg 1024w,
-/posts/owl-keyboard-materials/rubber_hu14837332055210026582.jpeg 2x"
-src="https://nand.fun/posts/owl-keyboard-materials/rubber_hu17180990174193757498.jpeg"
+/posts/owl-keyboard-materials/rubber_hu6945211433780776545.webp 330w,
+/posts/owl-keyboard-materials/rubber_hu14862976778967498135.webp 660w,
+/posts/owl-keyboard-materials/rubber_hu15745584120286804151.webp 1024w,
+/posts/owl-keyboard-materials/rubber_hu4494251084704114273.webp 2x"
+src="https://nand.fun/posts/owl-keyboard-materials/rubber_hu14862976778967498135.webp"
 alt="Rubber"
 />
 &lt;/figure>
-&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/owl-keyboard-materials/feature.jpg"/></item><item><title>Owl Keyboard: Overview</title><link>https://nand.fun/en/posts/owl-keyboard-overview/</link><pubDate>Tue, 13 Aug 2024 01:04:03 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/owl-keyboard-overview/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/owl-keyboard-materials/feature.webp"/></item><item><title>Owl Keyboard: Overview</title><link>https://nand.fun/en/posts/owl-keyboard-overview/</link><pubDate>Tue, 13 Aug 2024 01:04:03 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/owl-keyboard-overview/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 &lt;strong>Owl (Orthogonal Wireless Layout)&lt;/strong>
 &lt;/div>
 &lt;div
@@ -456,4 +456,4 @@ class="dark:text-neutral-300"
 >Combines the ergonomic freedom of wireless connectivity with a split keyboard&lt;/span>
 &lt;/div>
 &lt;blockquote>
-&lt;p>Design influenced by &lt;a href="https://github.com/kata0510/Lily58" target="_blank">Lily58&lt;/a>, &lt;a href="https://github.com/foostan/crkbd" target="_blank">Corne&lt;/a>, &lt;a href="https://github.com/josefadamcik/SofleKeyboard" target="_blank">Sofle&lt;/a> and &lt;a href="https://github.com/rtitmuss/torn" target="_blank">Torn&lt;/a> keyboards&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/owl-keyboard-overview/feature.jpg"/></item></channel></rss>
+&lt;p>Design influenced by &lt;a href="https://github.com/kata0510/Lily58" target="_blank">Lily58&lt;/a>, &lt;a href="https://github.com/foostan/crkbd" target="_blank">Corne&lt;/a>, &lt;a href="https://github.com/josefadamcik/SofleKeyboard" target="_blank">Sofle&lt;/a> and &lt;a href="https://github.com/rtitmuss/torn" target="_blank">Torn&lt;/a> keyboards&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/owl-keyboard-overview/feature.webp"/></item></channel></rss>

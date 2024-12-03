@@ -2,7 +2,7 @@
 Rational configuration and efficient functional software, creating a smooth and efficient workflow.
 &lt;/div>
 &lt;blockquote>
-&lt;p>The content will be explained in the order of the configuration. Some parts can be selectively configured according to individual needs.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/ultimate-macos-setup/feature.jpeg"/></item><item><title>Owl Keyboard: Assembly</title><link>https://nand.fun/en/posts/owl-keyboard-assembly/</link><pubDate>Thu, 15 Aug 2024 01:04:03 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/owl-keyboard-assembly/</guid><description>&lt;div
+&lt;p>The content will be explained in the order of the configuration. Some parts can be selectively configured according to individual needs.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/ultimate-macos-setup/feature.webp"/></item><item><title>Owl Keyboard: Assembly</title><link>https://nand.fun/en/posts/owl-keyboard-assembly/</link><pubDate>Thu, 15 Aug 2024 01:04:03 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/owl-keyboard-assembly/</guid><description>&lt;div
 class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
 >
 &lt;span
@@ -178,79 +178,79 @@ aria-label="Slide 12">&lt;/button>
 &lt;div class="relative float-left -mr-[100%] w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item data-twe-carousel-active >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/01.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 0"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/01.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 0"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/02.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 1"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/02.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 1"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/03.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 2"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/03.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 2"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/04.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 3"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/04.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 3"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/05.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 4"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/05.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 4"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/06.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 5"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/06.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 5"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/07.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 6"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/07.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 6"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/08.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 7"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/08.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 7"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/09.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 8"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/09.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 8"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/10.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 9"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/10.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 9"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/11.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 10"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/11.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 10"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/12.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 11"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/12.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 11"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/13.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 12"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/pcb/13.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 12"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -333,19 +333,19 @@ aria-label="Slide 2">&lt;/button>
 &lt;div class="relative float-left -mr-[100%] w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item data-twe-carousel-active >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/01.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 0"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/01.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 0"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/02.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 1"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/02.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 1"/>
 &lt;/div>
 &lt;/div>
 &lt;div class="relative float-left -mr-[100%] hidden w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none"
 data-twe-carousel-item >
 &lt;div class="ratio-16-9 single_hero_background">
-&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/03.jpg" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 2"/>
+&lt;img src="https://nand.fun/posts/owl-keyboard-materials/rgb-oled/03.webp" class="block absolute top-0 object-cover w-full h-full nozoom" alt="carousel image 2"/>
 &lt;/div>
 &lt;/div>
 &lt;/div>
@@ -422,15 +422,15 @@ style="text-decoration-line: none !important;" href="#general" aria-label="Ancho
 class="my-0 rounded-md"
 loading="lazy"
 srcset="
-/posts/owl-keyboard-materials/rubber_hu10935296704199840800.jpeg 330w,
-/posts/owl-keyboard-materials/rubber_hu17180990174193757498.jpeg 660w,
-/posts/owl-keyboard-materials/rubber_hu907560469648247562.jpeg 1024w,
-/posts/owl-keyboard-materials/rubber_hu14837332055210026582.jpeg 2x"
-src="https://nand.fun/posts/owl-keyboard-materials/rubber_hu17180990174193757498.jpeg"
+/posts/owl-keyboard-materials/rubber_hu6945211433780776545.webp 330w,
+/posts/owl-keyboard-materials/rubber_hu14862976778967498135.webp 660w,
+/posts/owl-keyboard-materials/rubber_hu15745584120286804151.webp 1024w,
+/posts/owl-keyboard-materials/rubber_hu4494251084704114273.webp 2x"
+src="https://nand.fun/posts/owl-keyboard-materials/rubber_hu14862976778967498135.webp"
 alt="Rubber"
 />
 &lt;/figure>
-&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/owl-keyboard-materials/feature.jpg"/></item><item><title>Owl Keyboard: Overview</title><link>https://nand.fun/en/posts/owl-keyboard-overview/</link><pubDate>Tue, 13 Aug 2024 01:04:03 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/owl-keyboard-overview/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/owl-keyboard-materials/feature.webp"/></item><item><title>Owl Keyboard: Overview</title><link>https://nand.fun/en/posts/owl-keyboard-overview/</link><pubDate>Tue, 13 Aug 2024 01:04:03 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/owl-keyboard-overview/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 &lt;strong>Owl (Orthogonal Wireless Layout)&lt;/strong>
 &lt;/div>
 &lt;div
@@ -460,7 +460,7 @@ class="dark:text-neutral-300"
 >Combines the ergonomic freedom of wireless connectivity with a split keyboard&lt;/span>
 &lt;/div>
 &lt;blockquote>
-&lt;p>Design influenced by &lt;a href="https://github.com/kata0510/Lily58" target="_blank">Lily58&lt;/a>, &lt;a href="https://github.com/foostan/crkbd" target="_blank">Corne&lt;/a>, &lt;a href="https://github.com/josefadamcik/SofleKeyboard" target="_blank">Sofle&lt;/a> and &lt;a href="https://github.com/rtitmuss/torn" target="_blank">Torn&lt;/a> keyboards&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/owl-keyboard-overview/feature.jpg"/></item><item><title>Linear Algebra in Imaging</title><link>https://nand.fun/en/posts/linear-algebra-in-imaging/</link><pubDate>Tue, 10 Jan 2023 12:27:57 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/linear-algebra-in-imaging/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;p>Design influenced by &lt;a href="https://github.com/kata0510/Lily58" target="_blank">Lily58&lt;/a>, &lt;a href="https://github.com/foostan/crkbd" target="_blank">Corne&lt;/a>, &lt;a href="https://github.com/josefadamcik/SofleKeyboard" target="_blank">Sofle&lt;/a> and &lt;a href="https://github.com/rtitmuss/torn" target="_blank">Torn&lt;/a> keyboards&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/owl-keyboard-overview/feature.webp"/></item><item><title>Linear Algebra in Imaging</title><link>https://nand.fun/en/posts/linear-algebra-in-imaging/</link><pubDate>Tue, 10 Jan 2023 12:27:57 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/linear-algebra-in-imaging/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 Image is composed of individual pixels, and the essence of image processing is to process these pixels. The correlation between pixels is important information, and it cannot be completely separated, which is also the starting point of many image algorithms. Convolution is a common operation in mathematics. In image processing, it changes the details of the image by performing operations between the image and the convolution kernel. Convolution or filtering operations on images are widely used in various scenarios, such as various filters and convolutional neural networks. This article will explore the knowledge of linear algebra applied in image processing convolution through image filtering.
 &lt;/div>
 &lt;h2 class="relative group">Introduction to Image Processing
@@ -471,7 +471,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#introduction-to-image-processing" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>Image processing refers to the analysis, processing, and processing of images to meet visual, psychological, or other requirements. Image processing is an application of signal processing in the field of images. Currently, most images are stored in digital form, so in many cases, image processing refers to digital image processing. In addition, processing methods based on optical theory still occupy an important position.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/linear-algebra-in-imaging/feature.jpeg"/></item><item><title>100 Prisoners Problem</title><link>https://nand.fun/en/posts/100-prisoners-problem/</link><pubDate>Sun, 08 Jan 2023 14:08:24 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/100-prisoners-problem/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+&lt;p>Image processing refers to the analysis, processing, and processing of images to meet visual, psychological, or other requirements. Image processing is an application of signal processing in the field of images. Currently, most images are stored in digital form, so in many cases, image processing refers to digital image processing. In addition, processing methods based on optical theory still occupy an important position.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/linear-algebra-in-imaging/feature.webp"/></item><item><title>100 Prisoners Problem</title><link>https://nand.fun/en/posts/100-prisoners-problem/</link><pubDate>Sun, 08 Jan 2023 14:08:24 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/100-prisoners-problem/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
 The 100 prisoners problem is a counterintuitive problem. It describes a seemingly impossible event: 100 prisoners have a chance to do the same thing, and only when all the prisoners do it can they survive. In fact, there is a reasonable implementation method for this problem to increase its probability by nearly &lt;strong>30 orders of magnitude&lt;/strong>.
 &lt;/div>
 &lt;h2 class="relative group">Introduction
@@ -493,7 +493,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#introduction" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>Worldwide, breast cancer is the most common type of cancer in women and the second highest in terms of mortality rates.Diagnosis of breast cancer is performed when an abnormal lump is found (from self-examination or x-ray) or a tiny speck of calcium is seen (on an x-ray). After a suspicious lump is found, the doctor will conduct a diagnosis to determine whether it is cancerous and, if so, whether it has spread to other parts of the body. &lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/breast-cancer-prediction/feature.jpg"/></item><item><title>Jail Deaths In America</title><link>https://nand.fun/en/posts/jail-deaths-in-america/</link><pubDate>Tue, 21 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/jail-deaths-in-america/</guid><description>&lt;blockquote>
+&lt;p>Worldwide, breast cancer is the most common type of cancer in women and the second highest in terms of mortality rates.Diagnosis of breast cancer is performed when an abnormal lump is found (from self-examination or x-ray) or a tiny speck of calcium is seen (on an x-ray). After a suspicious lump is found, the doctor will conduct a diagnosis to determine whether it is cancerous and, if so, whether it has spread to other parts of the body. &lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/breast-cancer-prediction/feature.webp"/></item><item><title>Jail Deaths In America</title><link>https://nand.fun/en/posts/jail-deaths-in-america/</link><pubDate>Tue, 21 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/jail-deaths-in-america/</guid><description>&lt;blockquote>
 &lt;p>Data sources:&lt;a href="https://www.reuters.com/investigates/special-report/usa-jails-graphic/" target="_blank">Jail deaths in America: data and key findings of &lt;em>Dying Inside&lt;/em>&lt;/a>&lt;/p>
 &lt;p>It contains data on large prisons with 750 or more prisoners in the United States. In order to ensure that it checked the number of deaths across the country, it also included data on the 10 largest prisons in each state.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/jail-deaths-in-america/feature.webp"/></item><item><title>Top 50 Most Followed Twitter Accounts</title><link>https://nand.fun/en/posts/top-50-twitter-accounts/</link><pubDate>Mon, 20 Jun 2022 01:23:48 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/top-50-twitter-accounts/</guid><description>&lt;blockquote>
 &lt;p>Data source: &lt;a href="https://www.kaggle.com/datasets/hassanshehzadk/top-50-most-followed-twitter-accounts?resource=download" target="_blank">Top 50 Most Followed Twitter Accounts&lt;/a>&lt;/p>
