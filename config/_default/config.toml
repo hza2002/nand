@@ -5,6 +5,7 @@
 theme = "blowfish"
 baseURL = "https://nand.fun/"
 defaultContentLanguage = "zh-cn"
+timeZone = "Asia/Shanghai"
 
 enableRobotsTXT = true
 pagination.pagerSize = 18
