@@ -101,6 +101,12 @@ showEdit: false
     </thead>
     <tbody>
         <tr>
+            <td>{{< figure class="customEntitityLogo" src="CUHKSZ.webp" >}}</td>
+            <td><a href="https://www.cuhk.edu.cn/" target="_blank">香港中文大学（深圳）</a></td>
+            <td>计算机科学研究生</td>
+            <td>2025 - 2027</td>
+        </tr>
+        <tr>
             <td>{{< figure class="customEntitityLogo" src="Southwest_University.webp" >}}</td>
             <td><a href="https://www.swu.edu.cn/" target="_blank">西南大学</a></td>
             <td>计算机科学本科</td>

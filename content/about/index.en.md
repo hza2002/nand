@@ -100,6 +100,12 @@ I always try to squeeze in time for work and picking up new skills. Most of thes
     </thead>
     <tbody>
         <tr>
+            <td>{{< figure class="customEntitityLogo" src="CUHKSZ.webp" >}}</td>
+            <td><a href="https://www.cuhk.edu.cn/" target="_blank">CUHK-Shenzhen</a></td>
+            <td>MSc, Computer Science</td>
+            <td>2025 - 2027</td>
+        </tr>
+        <tr>
             <td>{{< figure class="customEntitityLogo" src="Southwest_University.webp" >}}</td>
             <td><a href="https://www.swu.edu.cn/" target="_blank">Southwest University</a></td>
             <td>BEng, Computer Science</td>
