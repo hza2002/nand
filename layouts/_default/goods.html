@@ -31,17 +31,102 @@
         <div class="min-w-0 min-h-0 max-w-fit">
             <div class="article-content max-w-full mb-20">
                 {{ .Content }}
+                <div class="goods-controls" data-goods-controls>
+                    <form class="goods-controls-form" data-goods-form>
+                        <div class="goods-control goods-control-search">
+                            <label for="goods-search">{{ if eq $.Site.Language.Lang "en" }}Search{{ else }}搜索{{ end }}</label>
+                            <div class="goods-search-wrap">
+                                <span class="goods-search-icon" aria-hidden="true">
+                                    <svg viewBox="0 0 24 24" fill="none" focusable="false">
+                                        <path d="M11 4a7 7 0 1 1 0 14 7 7 0 0 1 0-14Z" stroke="currentColor"
+                                            stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        <path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="1.8"
+                                            stroke-linecap="round" stroke-linejoin="round"></path>
+                                    </svg>
+                                </span>
+                                <input id="goods-search" type="search" autocomplete="off" data-goods-search
+                                    placeholder="{{ if eq $.Site.Language.Lang "en" }}Search all fields...{{ else }}搜索全部信息...{{ end }}" />
+                                <button type="button" class="goods-search-clear" data-goods-clear
+                                    aria-label="{{ if eq $.Site.Language.Lang "en" }}Clear Search{{ else }}清空搜索{{ end }}">
+                                    <span aria-hidden="true">×</span>
+                                </button>
+                            </div>
+                        </div>
+                        <span class="goods-result-count" data-goods-result-count></span>
+                    </form>
+                </div>
                 <div id="goods">
-                    {{ range sort $goods.good "source" "desc" }}
-                    {{ $goodsSrc := .image }}
+                    {{ $preparedGoods := slice }}
+                    {{ range $goods.good }}
+                    {{ $dateRaw := .date | default "" }}
+                    {{ $dateParts := split $dateRaw "-" }}
+                    {{ $year := "0000" }}
+                    {{ $month := "00" }}
+                    {{ $day := "00" }}
+                    {{ if ge (len $dateParts) 1 }}
+                    {{ $yearPart := index $dateParts 0 }}
+                    {{ if and (ne $yearPart "") (ne $yearPart "xx") }}
+                    {{ $year = $yearPart }}
+                    {{ end }}
+                    {{ end }}
+                    {{ if ge (len $dateParts) 2 }}
+                    {{ $monthPart := index $dateParts 1 }}
+                    {{ if and (ne $monthPart "") (ne $monthPart "xx") }}
+                    {{ $month = $monthPart }}
+                    {{ end }}
+                    {{ end }}
+                    {{ if ge (len $dateParts) 3 }}
+                    {{ $dayPart := index $dateParts 2 }}
+                    {{ if and (ne $dayPart "") (ne $dayPart "xx") }}
+                    {{ $day = $dayPart }}
+                    {{ end }}
+                    {{ end }}
+                    {{ $sortDate := printf "%s%s%s" $year $month $day }}
+                    {{ $preparedGoods = $preparedGoods | append (dict "item" . "sortDate" $sortDate) }}
+                    {{ end }}
+                    {{ range sort $preparedGoods "sortDate" "desc" }}
+                    {{ $item := .item }}
+                    {{ $goodsSrc := $item.image }}
                     {{ $goodsSrc := printf "images/goods/%s" $goodsSrc }}
-                    {{ $title := .title }}
-                    <div class="goods-container">
+                    {{ $priceRaw := $item.price | default "" }}
+                    {{ $currency := $item.currency | default "" }}
+                    {{ $priceForSort := $priceRaw | lower | replaceRE "[^0-9x]" "" | replace "x" "0" }}
+                    {{ if eq $priceForSort "" }}{{ $priceForSort = "0" }}{{ end }}
+                    {{ $displayPrice := $priceRaw }}
+                    {{ if and $currency (not (eq $currency "")) }}
+                    {{ $displayPrice = printf "%s %s" $currency $priceRaw }}
+                    {{ end }}
+                    {{ $displayTitle := "" }}
+                    {{ $displayNote := "" }}
+                    {{ if eq $.Site.Language.Lang "en" }}
+                    {{ $displayTitle = ($item.title_en | default $item.title | default "") }}
+                    {{ $displayNote = ($item.note_en | default $item.note | default "") }}
+                    {{ else }}
+                    {{ $displayTitle = ($item.title | default $item.title_en | default "") }}
+                    {{ $displayNote = ($item.note | default $item.note_en | default "") }}
+                    {{ end }}
+                    <div
+                        class="goods-card"
+                        data-date="{{ $item.date | default "" }}"
+                        data-platform="{{ $item.platform | default "" }}"
+                        data-price="{{ $priceRaw }}"
+                        data-currency="{{ $currency }}"
+                        data-price-sort="{{ $priceForSort }}"
+                        data-title="{{ printf "%s %s" ($item.title | default "") ($item.title_en | default "") }}"
+                        data-note="{{ printf "%s %s" ($item.note | default "") ($item.note_en | default "") }}"
+                    >
+                        <div class="goods-price-badge">{{ $displayPrice }}</div>
                         <div class="goods-image">
                             {{ with resources.Get $goodsSrc }}
+                            {{ $ratioClass := "goods-image-img--square" }}
+                            {{ if gt .Width .Height }}
+                            {{ $ratioClass = "goods-image-img--wide" }}
+                            {{ else if lt .Width .Height }}
+                            {{ $ratioClass = "goods-image-img--tall" }}
+                            {{ end }}
                             <figure>
                                 <img
-                                    class="my-0 rounded-md lazy"
+                                    class="my-0 rounded-md lazy goods-image-img {{ $ratioClass }}"
                                     loading="lazy"
                                     srcset="
                                     {{ (.Resize " 330x").RelPermalink }} 330w,
@@ -50,34 +135,36 @@
                                     {{ (.Resize "1320x").RelPermalink }} 2x"
                                     src="/assets/images/featured.svg"
                                     data-src="{{ (.Resize "1320x").RelPermalink }}"
-                                    alt="{{ $title }}"
+                                    alt="{{ $displayTitle }}"
                                 />
                             </figure>
                             {{ end }}
                         </div>
-                        <div class="goods-info-container">
-                            <div class="goods-info">{{ .price }}</div>
-                            {{ if and .source (not (eq .source "")) }}
-                            <div class="goods-info">{{ .source }}</div>
-                            {{ end }}
-                        </div>
-                        <div class="goods-title">
-                            <a href="{{ .link }}" target="_blank" rel="noreferrer noopener nofollow">
-                            {{ if eq $.Site.Language.Lang "en" }}
-                              {{ (.title_en | default .title | default "") | safeHTML }}
-                            {{ else }}
-                              {{ (.title | default .title_en | default "") | safeHTML }}
-                            {{ end }}</a>
-                        </div>
-                        <div class="goods-note">
-                            {{ if eq $.Site.Language.Lang "en" }}
-                              {{ (.note_en | default .note | default "") | safeHTML }}
-                            {{ else }}
-                              {{ (.note | default .note_en | default "") | safeHTML }}
-                            {{ end }}
+                        <div class="goods-content">
+                            <div class="goods-title">
+                                {{ if and $item.link (not (eq $item.link "")) }}
+                                <a href="{{ $item.link }}" target="_blank" rel="noreferrer noopener nofollow">
+                                    {{ $displayTitle | safeHTML }}
+                                </a>
+                                {{ else }}
+                                <span>{{ $displayTitle | safeHTML }}</span>
+                                {{ end }}
+                            </div>
+                            <div class="goods-meta">
+                                {{ if and $item.date (not (eq $item.date "")) }}
+                                <span class="goods-date">{{ $item.date }}</span>
+                                {{ end }}
+                                {{ if and $item.platform (not (eq $item.platform "")) }}
+                                <span class="goods-platform">{{ $item.platform }}</span>
+                                {{ end }}
+                            </div>
+                            <div class="goods-note">{{ $displayNote | safeHTML }}</div>
                         </div>
                     </div>
                     {{ end }}
+                </div>
+                <div class="goods-empty" data-goods-empty hidden>
+                    {{ if eq $.Site.Language.Lang "en" }}No matching goods.{{ else }}没有符合条件的藏品。{{ end }}
                 </div>
             </div>
         </div>
@@ -86,6 +173,9 @@
 {{ $lazyloadJS := resources.Get "js/lazyload.iife.min.js" | minify | fingerprint "sha256" }}
 <script type="text/javascript" src="{{ $lazyloadJS.RelPermalink }}"
     integrity="{{ $lazyloadJS.Data.Integrity }}"></script>
+{{ $goodsFiltersJS := resources.Get "js/goods-filters.js" | minify | fingerprint "sha256" }}
+<script type="text/javascript" src="{{ $goodsFiltersJS.RelPermalink }}"
+    integrity="{{ $goodsFiltersJS.Data.Integrity }}"></script>
 <script>
     var lazyLoadInstance = new LazyLoad({
         // Your custom settings go here

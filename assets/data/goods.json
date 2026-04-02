@@ -1,744 +1,892 @@
 {
   "good": [
     {
-      "source": "2019.12.28 闲鱼",
       "image": "InWin D-Frame mini.webp",
-      "price": "CNY370",
+      "price": "370",
       "title": "迎广 D-Frame mini",
       "title_en": "InWin D-Frame mini",
       "link": "https://techgage.com/article/in-win-d-frame-mini-review/",
       "note": "PC DIY 的起点，很沉很大",
-      "note_en": "Start point of PC DIY, heavy and bulky"
+      "note_en": "Start point of PC DIY, heavy and bulky",
+      "date": "2019-12-28",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2020.04.06 闲鱼",
       "image": "2070 SUPER Neptune OC.webp",
-      "price": "CNY3850",
+      "price": "3850",
       "title": "七彩虹水神 RTX2070s OC",
       "title_en": "RTX2070s Neptune OC",
       "link": "https://www.colorful.cn/home/Product?id=1706&mid=102",
       "note": "静音温度低，水管短又硬",
-      "note_en": "Silent, low-temp, but hard pipes"
+      "note_en": "Silent, low-temp, but hard pipes",
+      "date": "2020-04-06",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2020.08.20 闲鱼",
       "image": "Xbox Controller [Gears5].webp",
-      "price": "CNY425",
+      "price": "425",
       "title": "Xbox 手柄 [战争机器]",
       "title_en": "Xbox Controller [Gears5]",
       "link": "https://www.amazon.com/Xbox-Wireless-Controller-Gears-Limited-one/dp/B07VRD1TT1",
       "note": "好看，跟手",
-      "note_en": "Cool, easy to handle"
+      "note_en": "Cool, easy to handle",
+      "date": "2020-08-20",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2020.08.28 闲鱼",
       "image": "Cooler Master NR200P.webp",
-      "price": "CNY580",
+      "price": "580",
       "title": "酷冷至尊 NR200P",
       "title_en": "Cooler Master NR200P",
       "link": "https://www.coolermaster.com/en-us/products/masterbox-nr200p-v2/",
       "note": "设计合理，精致小巧",
-      "note_en": "Well-designed, refined and compact"
+      "note_en": "Well-designed, refined and compact",
+      "date": "2020-08-28",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2020.09.17 闲鱼",
       "image": "Crucia MX500 1TB.webp",
-      "price": "CNY620",
+      "price": "620",
       "title": "英睿达 MX500 1TB",
       "title_en": "Crucia MX500 1TB",
       "link": "https://www.crucial.com/products/ssd/crucial-mx500-ssd",
       "note": "",
-      "note_en": ""
+      "note_en": "",
+      "date": "2020-09-17",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2021.04.04 闲鱼",
       "image": "361° AG1 pro 建盏飞白.webp",
-      "price": "CNY490",
+      "price": "490",
       "title": "361° AG1 pro 建盏飞白",
       "title_en": "",
       "link": "https://dw4.co/t/A/1qexBS2Mo",
       "note": "结合传统文化，好看",
-      "note_en": "Combining traditional culture, beautiful"
+      "note_en": "Combining traditional culture, beautiful",
+      "date": "2021-04-04",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2021.06.12 闲鱼",
       "image": "Kindle Oasis 2.webp",
-      "price": "CNY1099",
+      "price": "1099",
       "title": "Kindle Oasis2 香槟金32GB",
       "title_en": "Kindle Oasis2 Gold 32GB",
       "link": "",
       "note": "轻便有质感",
-      "note_en": "light and substantial"
+      "note_en": "light and substantial",
+      "date": "2021-06-12",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2021.06.15 闲鱼",
       "image": "EG RX-78-2.webp",
-      "price": "CNY48",
+      "price": "48",
       "title": "",
       "title_en": "EG RX-78-2",
       "link": "https://bandaihobbysite.cn/index/index/detail/id/1578",
       "note": "麻雀虽小五脏俱全",
-      "note_en": "Small but complete"
+      "note_en": "Small but complete",
+      "date": "2021-06-15",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2021.06.15 闲鱼",
       "image": "RG RX-178 Mk-Ⅱ AEUG.webp",
-      "price": "CNY130",
+      "price": "130",
       "title": "RG RX-178 Mk-Ⅱ 奥古",
       "title_en": "RG RX-178 Mk-Ⅱ AEUG",
       "link": "https://bandaihobbysite.cn/index/index/detail/id/687",
       "note": "扎实的机械联动结构",
-      "note_en": "Solid mechanical linkage structure"
+      "note_en": "Solid mechanical linkage structure",
+      "date": "2021-06-15",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2021.08.01 闲鱼",
       "image": "Huawei mobile router B311.webp",
-      "price": "CNY201",
+      "price": "201",
       "title": "华为移动路由 B311",
       "title_en": "Huawei mobile router B311",
       "link": "https://consumer.huawei.com/cn/support/routers/mobile-router/",
       "note": "解决了校园网2设备限制",
-      "note_en": "Solved campus network 2 device restriction"
+      "note_en": "Solved campus network 2 device restriction",
+      "date": "2021-08-01",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2021.10.29 闲鱼",
       "image": "Magic Trackpad 2.webp",
-      "price": "CNY750",
+      "price": "750",
       "title": "妙控板2代",
       "title_en": "Magic Trackpad 2",
       "link": "https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad-white-multi-touch-surface",
       "note": "精致实用",
-      "note_en": "Refined and practical"
+      "note_en": "Refined and practical",
+      "date": "2021-10-29",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2021.11.16 闲鱼",
       "image": "GSAS Evanthe Lazy Afternoon.webp",
-      "price": "CNY580",
+      "price": "580",
       "title": "GSAS 伊万斯 慵懒午后",
       "title_en": "GSAS Evanthe Lazy Afternoon",
       "link": "https://www.goodsmile.info/en/product/11714/Evanthe+Lazy+Afternoon+Ver.html",
       "note": "好设计，好制作",
-      "note_en": "Good design, good craftsmanship"
+      "note_en": "Good design, good craftsmanship",
+      "date": "2021-11-16",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2021.12.26 闲鱼",
       "image": "HHKB Professional 2.webp",
-      "price": "CNY1000",
+      "price": "1000",
       "title": "HHKB Professional 2",
       "title_en": "HHKB Professional 2",
       "link": "https://hhkb.io/models/HHKB_Professional_2/",
       "note": "改了YDKB的蓝牙，高级薄膜",
-      "note_en": "Modified YDKB's Bluetooth, advanced membrane keyboard"
+      "note_en": "Modified YDKB's Bluetooth, advanced membrane keyboard",
+      "date": "2021-12-26",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2022.10.14 闲鱼",
       "image": "SAMSUNG 970 EVO PLUS 2TB.webp",
-      "price": "CNY1420",
+      "price": "1420",
       "title": "三星 970 EVO PLUS",
       "title_en": "SAMSUNG 970 EVO PLUS",
       "link": "https://semiconductor.samsung.com/us/consumer-storage/internal-ssd/970evoplus/",
       "note": "2TB",
-      "note_en": ""
+      "note_en": "",
+      "date": "2022-10-14",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2022.10.22 闲鱼",
       "image": "XIAOMI Screen Light Bar 1S.webp",
-      "price": "CNY210",
+      "price": "210",
       "title": "米家智能显示器挂灯1S",
       "title_en": "XIAOMI Screen Light Bar 1S",
       "link": "https://www.mi.com/shop/buy/detail?product_id=15186&cfrom=search",
       "note": "",
-      "note_en": ""
+      "note_en": "",
+      "date": "2022-10-22",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2022.10.27 闲鱼",
       "image": "Targus DOCK180.webp",
-      "price": "CNY350",
+      "price": "350",
       "title": "",
       "title_en": "Targus DOCK180",
       "link": "https://www.targus.com/za/universal-usb-c-dv4k-dock-with-power-dock180euz",
       "note": "DisplayLink解决MBP不能接两个显示器",
-      "note_en": "DisplayLink solution for MBP unable to connect two monitors"
+      "note_en": "DisplayLink solution for MBP unable to connect two monitors",
+      "date": "2022-10-27",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2022.12.03 闲鱼",
       "image": "MacBook Pro M1 Max.webp",
-      "price": "CNY17500",
+      "price": "17500",
       "title": "",
       "title_en": "MacBook Pro M1 Max",
       "link": "https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-max-10-core-cpu-32-core-gpu-14-2021-specs.html",
       "note": "强大，10 CPU/32 GPU，32GB内存，1TB存储",
-      "note_en": "Powerful, 10 CPU/32 GPU, 32GB memory, 1TB storage"
+      "note_en": "Powerful, 10 CPU/32 GPU, 32GB memory, 1TB storage",
+      "date": "2022-12-03",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2023.02.12 闲鱼",
       "image": "Logitech MX Master 3S.webp",
-      "price": "CNY429",
+      "price": "429",
       "title": "罗技 MX Master 3S",
       "title_en": "Logitech MX Master 3S",
       "link": "https://www.logitech.com/zh-cn/products/mice/mx-master-3s",
       "note": "Mac上最好的鼠标",
-      "note_en": "The best mouse for Mac"
+      "note_en": "The best mouse for Mac",
+      "date": "2023-02-12",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2023.02.23 闲鱼",
       "image": "Cooler Master HAF 500.webp",
-      "price": "CNY599",
+      "price": "599",
       "title": "酷冷至尊 HAF 500",
       "title_en": "Cooler Master HAF 500",
       "link": "https://www.coolermaster.com/en-us/products/haf-500/",
       "note": "做工扎实，设计有巧思",
-      "note_en": "Well-crafted, with thoughtful design"
+      "note_en": "Well-crafted, with thoughtful design",
+      "date": "2023-02-23",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2023.02.23 闲鱼",
       "image": "GIGABYTE Z690 AERO G.webp",
-      "price": "CNY1599",
+      "price": "1599",
       "title": "技嘉 Z690 AERO G",
       "title_en": "GIGABYTE Z690 AERO G",
       "link": "https://www.gigabyte.com/Motherboard/Z690-AERO-G-DDR4-rev-1x#kf",
       "note": "内敛低调不平凡",
-      "note_en": "Unassuming and understated, yet extraordinary."
+      "note_en": "Unassuming and understated, yet extraordinary.",
+      "date": "2023-02-23",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2023.02.26 闲鱼",
       "image": "Noctua NF-A20 Black.webp",
-      "price": "CNY156",
+      "price": "156",
       "title": "猫头鹰 NF-A20 黑色",
       "title_en": "Noctua NF-A20 Black",
       "link": "https://noctua.at/en/nf-a20-pwm-chromax-black-swap",
       "note": "一丝微动，凉风万里",
-      "note_en": "Slightly motion, endless cool"
+      "note_en": "Slightly motion, endless cool",
+      "date": "2023-02-26",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2023.02.28 闲鱼",
       "image": "ZOTAC GAMING GeForce RTX 4090 AMP Extreme AIRO White Edition.webp",
-      "price": "CNY13500",
+      "price": "13500",
       "title": "索泰 RTX4090 AMP EXTREME AIRO 月白",
       "title_en": "ZOTAC RTX4090 AMP Extreme AIRO White",
       "link": "https://www.zotac.com/us/product/graphics_card/zotac-gaming-geforce-rtx-4090-amp-extreme-airo-white-edition",
       "note": "优雅强大",
-      "note_en": "Elegant and powerful"
+      "note_en": "Elegant and powerful",
+      "date": "2023-02-28",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2024.08.16 闲鱼",
       "image": "Magic Mouse 2.webp",
-      "price": "CNY150",
+      "price": "150",
       "title": "妙控鼠标2代",
       "title_en": "Magic Mouse 2",
       "link": "https://www.apple.com/shop/product/MK2E3AM/A/magic-mouse-white-multi-touch-surface",
       "note": "坚持过了，难用",
-      "note_en": "Tried hard, but failed"
+      "note_en": "Tried hard, but failed",
+      "date": "2024-08-16",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2024.11.21 闲鱼",
       "image": "CUKTECH Charger.webp",
-      "price": "CNY79",
+      "price": "79",
       "title": "酷态科 充电器",
       "title_en": "CUKTECH Charger",
       "link": "https://cuktech.com.cn/show_procon.thtml?id=240",
       "note": "针对松插口，65w双C口",
-      "note_en": "65W Dual Type-C for loose sockets"
+      "note_en": "65W Dual Type-C for loose sockets",
+      "date": "2024-11-21",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2025.02.23 闲鱼",
       "image": "Ibanez AZ22S1F TXB.webp",
-      "price": "CNY2780",
+      "price": "2780",
       "title": "Ibanez AZ22S1F TXB",
       "title_en": "Ibanez AZ22S1F TXB",
       "link": "https://www.ibanez.com/asia/products/detail/az22s1f_5n_01.html",
       "note": "第一把电吉他",
-      "note_en": "My first electric guitar"
+      "note_en": "My first electric guitar",
+      "date": "2025-02-23",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2025.02.24 闲鱼",
       "image": "KATANA-50 Gen 3.webp",
-      "price": "CNY1666",
+      "price": "1666",
       "title": "KATANA-50 Gen 3",
       "title_en": "KATANA-50 Gen 3",
       "link": "https://www.boss.info/global/products/katana-50_gen_3/",
       "note": "从入门到入土的吉他音箱",
-      "note_en": "From beginner to expert guitar amplifier"
+      "note_en": "From beginner to expert guitar amplifier",
+      "date": "2025-02-24",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2026.01.25 闲鱼",
       "image": "Sennheiser IE 100 PRO Clear.webp",
-      "price": "CNY210",
+      "price": "210",
       "title": "森海塞尔 IE100PRO",
       "title_en": "Sennheiser IE100PRO",
       "link": "https://www.sennheiser.com/en-us/catalog/products/headphones/ie-100-pro/ie-100-pro-clear-508941",
       "note": "备用有线监听耳机",
-      "note_en": "Backup wired monitoring headphones"
+      "note_en": "Backup wired monitoring headphones",
+      "date": "2026-01-25",
+      "platform": "闲鱼",
+      "currency": "CNY"
     },
     {
-      "source": "2020.07.26 拼多多",
       "image": "Dell U2720Q.webp",
-      "price": "CNY3489",
+      "price": "3489",
       "title": "戴尔 U2720Q",
       "title_en": "Dell U2720Q",
       "link": "https://www.dell.com/support/home/en-us/product-support/product/dell-u2720q-monitor",
       "note": "护眼颜色好",
-      "note_en": "Eye-friendly and vibrant"
+      "note_en": "Eye-friendly and vibrant",
+      "date": "2020-07-26",
+      "platform": "拼多多",
+      "currency": "CNY"
     },
     {
-      "source": "2021.06.10 拼多多",
       "image": "MacBook Pro M1.webp",
-      "price": "CNY8399",
+      "price": "8399",
       "title": "",
       "title_en": "MacBook Pro M1",
       "link": "https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-8-core-13-2020-specs.html",
       "note": "我和macOS和M芯片的开始，轻便续航长",
-      "note_en": "Start with both macOS and M-series chip, light and long-lasting battery"
+      "note_en": "Start with both macOS and M-series chip, light and long-lasting battery",
+      "date": "2021-06-10",
+      "platform": "拼多多",
+      "currency": "CNY"
     },
     {
-      "source": "2023.01.18 拼多多",
       "image": "PS5 Controller [God Of War].webp",
-      "price": "CNY461",
+      "price": "461",
       "title": "PS5 手柄 [战神]",
       "title_en": "PS5 Controller [God Of War]",
       "link": "",
       "note": "好看又好玩",
-      "note_en": "Appealing and fun"
+      "note_en": "Appealing and fun",
+      "date": "2023-01-18",
+      "platform": "拼多多",
+      "currency": "CNY"
     },
     {
-      "source": "2023.02.11 拼多多",
       "image": "EDIFIER NEW-X.webp",
-      "price": "CNY853",
+      "price": "853",
       "title": "漫步者 花再NEW-X",
       "title_en": "EDIFIER NEW-X",
       "link": "https://www.edifier.com/cn/product/product-561.html",
       "note": "精致有设计",
-      "note_en": "Refined and designed"
+      "note_en": "Refined and designed",
+      "date": "2023-02-11",
+      "platform": "拼多多",
+      "currency": "CNY"
     },
     {
-      "source": "2023.04.07 拼多多",
       "image": "Apple Watch Series 8.webp",
-      "price": "CNY2628",
+      "price": "2628",
       "title": "",
       "title_en": "Apple Watch Series 8",
       "link": "https://support.apple.com/en-us/111848",
       "note": "不知不觉就没戴了",
-      "note_en": "Gradually stopped wearing it without realizing"
+      "note_en": "Gradually stopped wearing it without realizing",
+      "date": "2023-04-07",
+      "platform": "拼多多",
+      "currency": "CNY"
     },
     {
-      "source": "2024.01.22 拼多多",
       "image": "PGU RX-78-2.webp",
-      "price": "CNY454",
+      "price": "454",
       "title": "",
       "title_en": "PGU RX-78-2",
       "link": "https://bandaihobbysite.cn/index/index/detail/id/2525",
       "note": "买的BGU，喷了漆很酷",
-      "note_en": "Bought BGU, looks cool after painted"
+      "note_en": "Bought BGU, looks cool after painted",
+      "date": "2024-01-22",
+      "platform": "拼多多",
+      "currency": "CNY"
     },
     {
-      "source": "2024.08.05 拼多多",
       "image": "CUKTECH Power Bank.webp",
-      "price": "CNY71",
+      "price": "71",
       "title": "酷态科 充电宝",
       "title_en": "CUKTECH Power Bank",
       "link": "https://cuktech.com.cn/show_procon.thtml?id=159",
       "note": "小巧强大，10000mAh 30W",
-      "note_en": "Compact yet powerful, 10000mAh 30W"
+      "note_en": "Compact yet powerful, 10000mAh 30W",
+      "date": "2024-08-05",
+      "platform": "拼多多",
+      "currency": "CNY"
     },
     {
-      "source": "2025.07.05 拼多多",
       "image": "CUKTECH Power Bank Explorer Edition.webp",
-      "price": "CNY66",
+      "price": "66",
       "title": "酷态科 充电宝",
       "title_en": "CUKTECH Power Bank",
       "link": "https://cuktech.com.cn/show_procon.thtml?id=204",
       "note": "探索版，自带线，更好用",
-      "note_en": "Explorer edition, with built-in cable"
+      "note_en": "Explorer edition, with built-in cable",
+      "date": "2025-07-05",
+      "platform": "拼多多",
+      "currency": "CNY"
     },
     {
-      "source": "2020.01.26 京东",
       "image": "InWin Chopin.webp",
-      "price": "CNY509",
+      "price": "509",
       "title": "迎广 肖邦",
       "title_en": "InWin Chopin",
       "link": "https://www.in-win.com/cn/gaming-chassis/chopin-max",
       "note": "铝合金外框/自带150W电源",
-      "note_en": "Aluminum alloy frame/Built-in 150W power supply"
+      "note_en": "Aluminum alloy frame/Built-in 150W power supply",
+      "date": "2020-01-26",
+      "platform": "京东",
+      "currency": "CNY"
     },
     {
-      "source": "2017.xx.xx 淘宝",
       "image": "G-SHOCK GWG-1000-1A3.webp",
-      "price": "CNY2xxx",
+      "price": "2xxx",
       "title": "",
       "title_en": "G-SHOCK GWG-1000-1A3",
       "link": "https://www.casio.com.cn/watches/gshock/product.GWG-1000-1A3/",
       "note": "结实耐用",
-      "note_en": "Sturdy and durable"
+      "note_en": "Sturdy and durable",
+      "date": "2017-xx-xx",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2019.12.15 淘宝",
       "image": "SanDisk CZ880 128GB.webp",
-      "price": "CNY232",
+      "price": "232",
       "title": "闪迪 CZ880 128GB",
       "title_en": "SanDisk CZ880 128GB",
       "link": "https://detail.zol.com.cn/usb_flash_drive/index1165202.shtml",
       "note": "口袋SSD",
-      "note_en": "Pocket SSD"
+      "note_en": "Pocket SSD",
+      "date": "2019-12-15",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2019.12.28 淘宝",
       "image": "Logitech G102.webp",
-      "price": "CNY90",
+      "price": "90",
       "title": "罗技 G102",
       "title_en": "Logitech G102",
       "link": "https://www.logitechg.com/zh-cn/products/gaming-mice/g102-prodigy-gaming-mouse",
       "note": "入门鼠标，中规中矩",
-      "note_en": "Entry-level mouse, run-of-the-mill"
+      "note_en": "Entry-level mouse, run-of-the-mill",
+      "date": "2019-12-28",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2019.12.28 淘宝",
       "image": "Logitech K845.webp",
-      "price": "CNY315",
+      "price": "315",
       "title": "罗技 K845",
       "title_en": "Logitech K845",
       "link": "https://www.logitech.com/zh-cn/products/keyboards/k845-mechanical-illuminated",
       "note": "入门键盘",
-      "note_en": "Entry-level keyboard"
+      "note_en": "Entry-level keyboard",
+      "date": "2019-12-28",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2020.01.12 淘宝",
       "image": "ROG Strix X570-I Gaming.webp",
-      "price": "CNY2100",
+      "price": "2100",
       "title": "",
       "title_en": "ROG Strix X570-I Gaming",
       "link": "https://rog.asus.com/us/motherboards/rog-strix/rog-strix-x570-i-gaming-model/",
       "note": "主板风扇太吵了",
-      "note_en": "Noisy motherboard fan"
+      "note_en": "Noisy motherboard fan",
+      "date": "2020-01-12",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2020.01.16 淘宝",
       "image": "Noctua NF-A12x25.webp",
-      "price": "CNY245",
+      "price": "245",
       "title": "猫头鹰 NF-A12x25",
       "title_en": "Noctua NF-A12x25",
       "link": "https://noctua.at/cn/nf-a12x25-5v-pwm",
       "note": "性能强，但太贵了",
-      "note_en": "Perfect performance, but too expensive"
+      "note_en": "Perfect performance, but too expensive",
+      "date": "2020-01-16",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2020.01.16 淘宝",
       "image": "Noctua NF-U12A.webp",
-      "price": "CNY654",
+      "price": "654",
       "title": "猫头鹰 NF-U12A",
       "title_en": "Noctua NF-U12A",
       "link": "https://noctua.at/cn/nh-u12a",
       "note": "买风扇送散热器",
-      "note_en": "Buy fans, heater as gift."
+      "note_en": "Buy fans, heater as gift.",
+      "date": "2020-01-16",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2020.02.05 淘宝",
       "image": "SONY MDR7506.webp",
-      "price": "CNY702",
+      "price": "702",
       "title": "索尼 MDR7506",
       "title_en": "SONY MDR7506",
       "link": "https://pro.sony/ue_US/products/headphones/mdr-7506",
       "note": "耳罩掉渣",
-      "note_en": "Earcups are flaking off"
+      "note_en": "Earcups are flaking off",
+      "date": "2020-02-05",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2020.02.10 淘宝",
       "image": "NetGear Orbi RBK20.webp",
-      "price": "CNY814",
+      "price": "814",
       "title": "",
       "title_en": "NetGear Orbi RBK20",
       "link": "https://www.netgear.com/support/product/rbk20/",
       "note": "预埋网线坏了，Mesh组网",
-      "note_en": "Pre-installed cable is broken, Mesh networking"
+      "note_en": "Pre-installed cable is broken, Mesh networking",
+      "date": "2020-02-10",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2020.02.21 淘宝",
       "image": "Toa Heavy Industries Synthetic Human Test Body.webp",
-      "price": "CNY685",
+      "price": "685",
       "title": "东亚重工 合成人间 人偶",
       "title_en": "Toa Heavy Industries Synthetic Human Test Body",
       "link": "https://1000toys.jp/detail.aspx?goto=product69",
       "note": "第一个手办，超级可动",
-      "note_en": "The first figure, super articulated"
+      "note_en": "The first figure, super articulated",
+      "date": "2020-02-21",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2020.02.22 淘宝",
       "image": "Logitech M275.webp",
-      "price": "CNY89",
+      "price": "89",
       "title": "罗技 M275",
       "title_en": "Logitech M275",
       "link": "https://www.logitech.com/assets/64693/2/kaluga-b330-m280m330m320m331.pdf",
       "note": "人体工程学",
-      "note_en": "Ergonomics"
+      "note_en": "Ergonomics",
+      "date": "2020-02-22",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2021.01.20 淘宝",
       "image": "Razer Seiren Mini.webp",
-      "price": "CNY249",
+      "price": "249",
       "title": "雷蛇魔音海妖迷你版",
       "title_en": "Razer Seiren Mini",
       "link": "https://cn.razerzone.com/streaming-microphones/razer-seiren-mini",
       "note": "小巧精致",
-      "note_en": "Compact and exquisite"
+      "note_en": "Compact and exquisite",
+      "date": "2021-01-20",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2021.01.23 淘宝",
       "image": "Razer Viper Ultimate.webp",
-      "price": "CNY493",
+      "price": "493",
       "title": "雷蛇毒蝰终极版",
       "title_en": "Razer Viper Ultimate",
       "link": "https://cn.razerzone.com/gaming-mice/razer-viper-ultimate",
       "note": "很轻很强大",
-      "note_en": "Extremely light yet incredibly powerful"
+      "note_en": "Extremely light yet incredibly powerful",
+      "date": "2021-01-23",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2021.02.04 淘宝",
       "image": "RG RX-93 νGundam.webp",
-      "price": "CNY438",
+      "price": "438",
       "title": "",
       "title_en": "RG RX-93 νGundam",
       "link": "https://bandaihobbysite.cn/index/index/detail/id/2263",
       "note": "电镀版，年度最佳",
-      "note_en": "Plated ver, best of the Year"
+      "note_en": "Plated ver, best of the Year",
+      "date": "2021-02-04",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2021.03.20 淘宝",
       "image": "Seagate Skyhawk ST4000VX007 4TB.webp",
-      "price": "CNY478",
+      "price": "478",
       "title": "希捷酷鹰  4TB",
       "title_en": "Seagate Skyhawk 4TB",
       "link": "https://www.seagate.com/files/www-content/datasheets/pdfs/skyhawk-3-5-hdd-DS1902-16-2106TW-zh_TW.pdf",
       "note": "ST4000VX007",
-      "note_en": "ST4000VX007"
+      "note_en": "ST4000VX007",
+      "date": "2021-03-20",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2021.06.15 淘宝",
       "image": "BANDAI Figure-rise DORAEMON.webp",
-      "price": "CNY128",
+      "price": "128",
       "title": "万代 Figure-rise 哆啦A梦",
       "title_en": "BANDAI Figure-rise DORAEMON",
       "link": "https://bandaihobbysite.cn/index/index/detail/id/1905",
       "note": "机械猫，透明外壳",
-      "note_en": "Transparent-cased mechanical cat"
+      "note_en": "Transparent-cased mechanical cat",
+      "date": "2021-06-15",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2021.06.15 淘宝",
       "image": "RG EVANGELION-01.webp",
-      "price": "CNY305",
+      "price": "305",
       "title": "RG EVA 初号机",
       "title_en": "RG EVANGELION-01",
       "link": "https://bandaihobbysite.cn/index/index/detail/id/2399",
       "note": "经典造型",
-      "note_en": "Classic Design"
+      "note_en": "Classic Design",
+      "date": "2021-06-15",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2021.09.28 淘宝",
       "image": "iPad Pro M1 2021.webp",
-      "price": "CNY5248",
+      "price": "5248",
       "title": "",
       "title_en": "iPad Pro M1 2021",
       "link": "https://everymac.com/systems/apple/ipad/specs/apple-ipad-pro-11-inch-3rd-gen-a2460-wi-fi-5g-cellular-mainland-china-specs.html",
       "note": "128GB，M1芯片的草稿本",
-      "note_en": "128GB, M1 Chip draft book"
+      "note_en": "128GB, M1 Chip draft book",
+      "date": "2021-09-28",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2021.10.01 淘宝",
       "image": "361° AG1 pro 杭罗.webp",
-      "price": "CNY559",
+      "price": "559",
       "title": "361° AG1 pro 杭罗",
       "title_en": "",
       "link": "https://dw4.co/t/A/1qewy68lM",
       "note": "结合传统文化，好看",
-      "note_en": "Combining traditional culture, beautiful"
+      "note_en": "Combining traditional culture, beautiful",
+      "date": "2021-10-01",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2022.01.11 淘宝",
       "image": "HWJ RAMBLER Bulldog.webp",
-      "price": "CNY242",
+      "price": "242",
       "title": "HWJ RAMBLER 斗牛犬",
       "title_en": "HWJ RAMBLER Bulldog",
       "link": "https://www.bigbadtoystore.com/Product/VariationDetails/171591?o=4",
       "note": "精致但太贵",
-      "note_en": "Refined but too expensive"
+      "note_en": "Refined but too expensive",
+      "date": "2022-01-11",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2022.05.12 淘宝",
       "image": "XIAOMI Router AX6000.webp",
-      "price": "CNY516",
+      "price": "516",
       "title": "小米路由器 AX6000",
       "title_en": "XIAOMI Router AX6000",
       "link": "https://www.mi.com/r6000",
       "note": "2台全屋覆盖",
-      "note_en": "Whole-home coverage with 2 units"
+      "note_en": "Whole-home coverage with 2 units",
+      "date": "2022-05-12",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2023.01.25 淘宝",
       "image": "Disney Lightyear Laser Saber.webp",
-      "price": "CNY199",
+      "price": "199",
       "title": "迪士尼 巴斯光年激光剑",
       "title_en": "Disney Lightyear Laser Saber",
       "link": "https://www.disneystore.asia/mattel-disney-pixar-lightyear-laser-saber-roleplay-toy-461062809312.html",
       "note": "很帅，对大学生来说刚好",
-      "note_en": "Just right for college students, very cool"
+      "note_en": "Just right for college students, very cool",
+      "date": "2023-01-25",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2023.02.10 淘宝",
       "image": "ZHITAI TiPlus5000 1TB.webp",
-      "price": "CNY459",
+      "price": "459",
       "title": "致钛 TiPlus5000 1TB",
       "title_en": "ZHITAI TiPlus5000 1TB",
       "link": "https://www.ymtc.com/cn/products/35.html?cat=44",
       "note": "",
-      "note_en": ""
+      "note_en": "",
+      "date": "2023-02-10",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2023.02.10 淘宝",
       "image": "M.2 SSD Enclosure.webp",
-      "price": "CNY154",
+      "price": "154",
       "title": "饭盒5号 M.2硬盘盒",
       "title_en": "M.2 SSD Enclosure",
       "link": "https://item.taobao.com/item.htm?id=678715110099",
       "note": "战术硬盘盒",
-      "note_en": "Tactical SSD enclosure"
+      "note_en": "Tactical SSD enclosure",
+      "date": "2023-02-10",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2023.02.23 淘宝",
       "image": "Intel i5 13600K.webp",
-      "price": "CNY2045",
+      "price": "2045",
       "title": "",
       "title_en": "Intel i5 13600K",
       "link": "https://www.intel.com/content/www/us/en/products/sku/230493/intel-core-i513600k-processor-24m-cache-up-to-5-10-ghz/specifications.html",
       "note": "13代缩肛警告",
-      "note_en": "13th Gen Vmin Instability Issue"
+      "note_en": "13th Gen Vmin Instability Issue",
+      "date": "2023-02-23",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2024.05.20 淘宝",
       "image": "Logitech M240.webp",
-      "price": "CNY119",
+      "price": "119",
       "title": "罗技 M240",
       "title_en": "Logitech M240",
       "link": "https://www.logitech.com/zh-cn/products/mice/m240-silent-bluetooth-mouse",
       "note": "小巧",
-      "note_en": "Petite"
+      "note_en": "Petite",
+      "date": "2024-05-20",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2024.12.11 淘宝",
       "image": "天幕.webp",
-      "price": "CNY429",
+      "price": "429",
       "title": "爱因塔 - 天幕",
       "title_en": "Einta - Sky Defender",
       "link": "https://b23.tv/BV1J1421f7B5",
       "note": "目前国模第一",
-      "note_en": "Currently the best Chinese model"
+      "note_en": "Currently the best Chinese model",
+      "date": "2024-12-11",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2025.09.16 淘宝",
       "image": "Romankey Big Guy.webp",
-      "price": "CNY213",
+      "price": "213",
       "title": "Romankey 大块头",
       "title_en": "Romankey Big Guy",
       "link": "https://x.com/Romankey_Toys/status/1926830490297753906",
       "note": "君子不重则不威",
-      "note_en": "No muscle, no majesty"
+      "note_en": "No muscle, no majesty",
+      "date": "2025-09-16",
+      "platform": "淘宝",
+      "currency": "CNY"
     },
     {
-      "source": "2026.03.xx 抖音",
       "image": "芬里尔.webp",
-      "price": "CNY316",
+      "price": "316",
       "title": "无限系 - 芬里尔",
       "title_en": "InEra - Fenrir",
       "link": "https://b23.tv/BV12TixBgE4a",
       "note": "除了没地台，非常好",
-      "note_en": "Perfect except for the missing base"
+      "note_en": "Perfect except for the missing base",
+      "date": "2026-03-xx",
+      "platform": "抖音",
+      "currency": "CNY"
     },
     {
-      "source": "2024.10.30 小米",
       "image": "XIAOMI 15.webp",
-      "price": "CNY4899",
+      "price": "4899",
       "title": "小米15 16+512GB",
       "title_en": "Xiaomi 15 16+512GB",
       "link": "https://www.mi.com/shop/buy/detail?product_id=1230802948",
       "note": "一年跌一半，不如用苹果",
-      "note_en": "Half price in 1 year; get an iPhone instead"
+      "note_en": "Half price in 1 year; get an iPhone instead",
+      "date": "2024-10-30",
+      "platform": "小米",
+      "currency": "CNY"
     },
     {
-      "source": "2025.09.16 小米",
       "image": "XIAOMI SmartBand 10.webp",
-      "price": "CNY322",
+      "price": "322",
       "title": "小米手环10 陶瓷版",
       "title_en": "Xiaomi SmartBand 10",
       "link": "https://www.mi.com/shop/buy/detail?product_id=21403",
       "note": "很有质感，完美的手环",
-      "note_en": "Great texture, the perfect fitness band"
+      "note_en": "Great texture, the perfect fitness band",
+      "date": "2025-09-16",
+      "platform": "小米",
+      "currency": "CNY"
     },
     {
-      "source": "2021.08.18 Apple",
       "image": "AirPods Pro 1.webp",
-      "price": "CNY1150",
+      "price": "1150",
       "title": "",
       "title_en": "AirPods Pro 1",
       "link": "https://support.apple.com/en-us/111861",
       "note": "物有所值",
-      "note_en": "It's worth it"
+      "note_en": "It's worth it",
+      "date": "2021-08-18",
+      "platform": "Apple",
+      "currency": "CNY"
     },
     {
-      "source": "2021.09.21 Apple",
       "image": "Apple Pencil 2.webp",
-      "price": "CNY895",
+      "price": "895",
       "title": "",
       "title_en": "Apple Pencil 2",
       "link": "https://www.apple.com.cn/apple-pencil/",
       "note": "摔不坏",
-      "note_en": "Drop-resistant"
+      "note_en": "Drop-resistant",
+      "date": "2021-09-21",
+      "platform": "Apple",
+      "currency": "CNY"
     },
     {
-      "source": "2021.11.19 Apple",
       "image": "iPhone13.webp",
-      "price": "CNY5999",
+      "price": "5999",
       "title": "",
       "title_en": "iPhone13 128GB",
       "link": "https://www.apple.com/by/iphone-13/",
       "note": "地铁上摔坏iPhone8之后...",
-      "note_en": "After breaking iPhone8 on the subway..."
+      "note_en": "After breaking iPhone8 on the subway...",
+      "date": "2021-11-19",
+      "platform": "Apple",
+      "currency": "CNY"
     },
     {
-      "source": "2025.11.18 香港",
       "image": "MGSD 风灵高达.webp",
-      "price": "HKD225",
+      "price": "225",
       "title": "MGSD 风灵高达",
       "title_en": "MGSD GUNDAM AERIAL",
       "link": "https://bandaihobbysite.cn/index/index/detail/id/2935",
       "note": "小巧可爱",
-      "note_en": "Small and cute"
+      "note_en": "Small and cute",
+      "date": "2025-11-18",
+      "platform": "香港",
+      "currency": "HKD"
     },
     {
-      "source": "2020.xx.xx 继承",
       "image": "iPhone8.webp",
-      "price": "CNYxxxx",
+      "price": "xxxx",
       "title": "",
       "title_en": "iPhone8 64GB",
       "link": "https://support.apple.com/en-sg/111976",
       "note": "高中生最快乐的一集",
-      "note_en": "Happiest episode of high school life"
+      "note_en": "Happiest episode of high school life",
+      "date": "2020-xx-xx",
+      "platform": "继承",
+      "currency": "CNY"
     },
     {
-      "source": "2026.02.10 继承",
       "image": "iPhone11.webp",
-      "price": "CNYxxxx",
+      "price": "xxxx",
       "title": "",
       "title_en": "iPhone11 64GB",
       "link": "https://support.apple.com/en-sg/111865",
       "note": "用了一年安卓，还是苹果好",
-      "note_en": "After a year with Android, iPhone still feels better"
+      "note_en": "After a year with Android, iPhone still feels better",
+      "date": "2026-02-10",
+      "platform": "继承",
+      "currency": "CNY"
     },
     {
-      "source": "2020.xx.xx",
       "image": "rOtring 800.webp",
-      "price": "CNY2xx",
+      "price": "2xx",
       "title": "红环 800",
       "title_en": "rOtring 800",
       "link": "https://www.rotring.com/pens-pencils/mechanical-pencils/rotring-800/SAP_1904447.html",
       "note": "最强自动铅笔",
-      "note_en": "Ultimate Mechanical Pencil"
+      "note_en": "Ultimate Mechanical Pencil",
+      "date": "2020-xx-xx",
+      "platform": "",
+      "currency": "CNY"
     }
   ]
 }

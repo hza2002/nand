@@ -84,4 +84,6 @@ Temporary Items
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo,git,macos,visualstudiocode
-/content/posts/translate
+
+# baoyu-translate project workspace (keep root files, ignore generated per-item folders)
+/.baoyu-skills
