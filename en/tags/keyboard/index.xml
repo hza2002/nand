@@ -193,7 +193,7 @@
 
 &lt;div class="width-patch"&gt;&lt;/div&gt;
 &lt;div
- id="carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ id="carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -205,7 +205,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="0"
  data-twe-carousel-active aria-current="true"
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -214,7 +214,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="1"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -223,7 +223,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="2"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -232,7 +232,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="3"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -241,7 +241,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="4"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -250,7 +250,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="5"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -259,7 +259,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="6"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -268,7 +268,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="7"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -277,7 +277,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="8"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -286,7 +286,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="9"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -295,7 +295,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="10"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -304,7 +304,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="11"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -313,7 +313,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide-to="12"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -981,7 +981,7 @@
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -1003,7 +1003,7 @@
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1771501311016578921"
+ data-twe-target="#carousel-7fae78c99a60c6c3f646a89c80d1247b-1775162631072535101"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -1094,7 +1094,7 @@
 
 &lt;div class="width-patch"&gt;&lt;/div&gt;
 &lt;div
- id="carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1771501311017485689"
+ id="carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1775162631073913608"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -1106,7 +1106,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1771501311017485689"
+ data-twe-target="#carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1775162631073913608"
  data-twe-slide-to="0"
  data-twe-carousel-active aria-current="true"
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -1115,7 +1115,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1771501311017485689"
+ data-twe-target="#carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1775162631073913608"
  data-twe-slide-to="1"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -1124,7 +1124,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1771501311017485689"
+ data-twe-target="#carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1775162631073913608"
  data-twe-slide-to="2"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -1292,7 +1292,7 @@
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1771501311017485689"
+ data-twe-target="#carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1775162631073913608"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -1314,7 +1314,7 @@
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1771501311017485689"
+ data-twe-target="#carousel-97927d0c6a1ffb2dfe8fc5fa23987401-1775162631073913608"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -1388,8 +1388,8 @@
  alt="Rubber"
  width="3178"
  height="550"
- src="https://nand.fun/posts/owl-keyboard-materials/rubber_hu_cbf3aeddf010aac5.webp"
- srcset="https://nand.fun/posts/owl-keyboard-materials/rubber_hu_cbf3aeddf010aac5.webp 800w, https://nand.fun/posts/owl-keyboard-materials/rubber_hu_b054f3d4c1d3dc91.webp 1280w"
+ src="https://nand.fun/posts/owl-keyboard-materials/rubber_hu_45783bd143a488b1.webp"
+ srcset="https://nand.fun/posts/owl-keyboard-materials/rubber_hu_45783bd143a488b1.webp 800w, https://nand.fun/posts/owl-keyboard-materials/rubber_hu_3c3da20a8eb5a8cf.webp 1280w"
  sizes="(min-width: 768px) 50vw, 65vw"
  data-zoom-src="https://nand.fun/posts/owl-keyboard-materials/rubber.webp"&gt;&lt;/figure&gt;
 &lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/owl-keyboard-materials/feature.webp"/></item><item><title>Owl Keyboard: Overview</title><link>https://nand.fun/en/posts/owl-keyboard-overview/</link><pubDate>Tue, 13 Aug 2024 01:04:03 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/en/posts/owl-keyboard-overview/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl"&gt;
