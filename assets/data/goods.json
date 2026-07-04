@@ -198,8 +198,8 @@
       "title": "",
       "title_en": "MacBook Pro M1 Max",
       "link": "https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-m1-max-10-core-cpu-32-core-gpu-14-2021-specs.html",
-      "note": "强大，10 CPU/32 GPU，32GB内存，1TB存储",
-      "note_en": "Powerful, 10 CPU/32 GPU, 32GB memory, 1TB storage",
+      "note": "强大，10CPU/32GPU，32GB内存，1TB存储",
+      "note_en": "Powerful, 10CPU/32GPU, 32GB memory, 1TB storage",
       "date": "2022-12-03",
       "platform": "闲鱼",
       "currency": "CNY"
@@ -321,6 +321,30 @@
       "note": "备用有线监听耳机",
       "note_en": "Backup wired monitoring headphones",
       "date": "2026-01-25",
+      "platform": "闲鱼",
+      "currency": "CNY"
+    },
+    {
+      "image": "Logitech G502 X.webp",
+      "price": "210",
+      "title": "罗技 G502 X 有线版",
+      "title_en": "Logitech G502 X Wired",
+      "link": "https://www.logitech.com/zh-cn/shop/p/g502-x-wired-lightforce.910-006150",
+      "note": "轻巧好看，多键无极滚轮",
+      "note_en": "Light, multi-button, sleek wheel",
+      "date": "2026-06-26",
+      "platform": "闲鱼",
+      "currency": "CNY"
+    },
+    {
+      "image": "Hagibis USB-C KVM Switch Hub.webp",
+      "price": "170",
+      "title": "海备思 KVM 扩展坞",
+      "title_en": "Hagibis KVM Switch Hub",
+      "link": "https://cn.hagibis.com.cn/products/usb-c-kvm-switch-hub-373",
+      "note": "一键切换Mac/PC，省心很多",
+      "note_en": "One-click switching between Mac and PC",
+      "date": "2026-07-02",
       "platform": "闲鱼",
       "currency": "CNY"
     },
@@ -769,6 +793,18 @@
       "currency": "CNY"
     },
     {
+      "image": "MacBook Air M5.webp",
+      "price": "6399",
+      "title": "",
+      "title_en": "MacBook Air M5",
+      "link": "https://support.apple.com/en-us/126320",
+      "note": "轻便，10CPU/8GPU，16GB内存，512GB存储",
+      "note_en": "Light, 10CPU/8GPU, 16GB memory, 512GB storage",
+      "date": "2026-04-23",
+      "platform": "淘宝",
+      "currency": "CNY"
+    },
+    {
       "image": "芬里尔.webp",
       "price": "316",
       "title": "无限系 - 芬里尔",
@@ -776,7 +812,7 @@
       "link": "https://b23.tv/BV12TixBgE4a",
       "note": "除了没地台，非常好",
       "note_en": "Perfect except for the missing base",
-      "date": "2026-03-xx",
+      "date": "2026-05-31",
       "platform": "抖音",
       "currency": "CNY"
     },
@@ -851,6 +887,18 @@
       "date": "2025-11-18",
       "platform": "香港",
       "currency": "HKD"
+    },
+    {
+      "image": "iPhone16 Pro Max 256GB.webp",
+      "price": "6000",
+      "title": "iPhone16 Pro Max 256GB",
+      "title_en": "iPhone 16 Pro Max 256GB",
+      "link": "https://support.apple.com/zh-cn/121032",
+      "note": "原生双卡港版，钛合金中框",
+      "note_en": "HK dual-SIM, titanium frame",
+      "date": "2026-06-28",
+      "platform": "华强北",
+      "currency": "CNY"
     },
     {
       "image": "iPhone8.webp",
