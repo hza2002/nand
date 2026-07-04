@@ -83,65 +83,65 @@
  
 &lt;/h2&gt;
 &lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th style="text-align: left"&gt;物品&lt;/th&gt;
- &lt;th style="text-align: left"&gt;数量&lt;/th&gt;
- &lt;th style="text-align: left"&gt;备注&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;PCB&lt;/td&gt;
- &lt;td style="text-align: left"&gt;2&lt;/td&gt;
- &lt;td style="text-align: left"&gt;如果使用 3D 打印外壳，则用 1.6mm 厚&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;ProMicro&lt;/td&gt;
- &lt;td style="text-align: left"&gt;2&lt;/td&gt;
- &lt;td style="text-align: left"&gt;&lt;a href="https://nicekeyboards.com/nice-nano" target="_blank" rel="noreferrer"&gt;nice!nano&lt;/a&gt;&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;二极管&lt;/td&gt;
- &lt;td style="text-align: left"&gt;46&lt;/td&gt;
- &lt;td style="text-align: left"&gt;SOD-123 或 DO-35&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;重置开关&lt;/td&gt;
- &lt;td style="text-align: left"&gt;2&lt;/td&gt;
- &lt;td style="text-align: left"&gt;3*6*5&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;电池开关&lt;/td&gt;
- &lt;td style="text-align: left"&gt;2&lt;/td&gt;
- &lt;td style="text-align: left"&gt;MSK-1102-1.5H&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;电池插座&lt;/td&gt;
- &lt;td style="text-align: left"&gt;2&lt;/td&gt;
- &lt;td style="text-align: left"&gt;PH2.0 2P&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;电池&lt;/td&gt;
- &lt;td style="text-align: left"&gt;2&lt;/td&gt;
- &lt;td style="text-align: left"&gt;3.7V 锂电池（最大 40*50*70）&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;PCB 轴座&lt;/td&gt;
- &lt;td style="text-align: left"&gt;46&lt;/td&gt;
- &lt;td style="text-align: left"&gt;兼容标准轴和佳达隆矮轴，如使用 choc 版本 PCB 则兼容凯华矮轴&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;轴体&lt;/td&gt;
- &lt;td style="text-align: left"&gt;46&lt;/td&gt;
- &lt;td style="text-align: left"&gt;按照你选择的轴座选择对应轴体&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;键帽&lt;/td&gt;
- &lt;td style="text-align: left"&gt;46&lt;/td&gt;
- &lt;td style="text-align: left"&gt;1u 键帽&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;物品&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数量&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;备注&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;PCB&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;2&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;如果使用 3D 打印外壳，则用 1.6mm 厚&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;ProMicro&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;2&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://nicekeyboards.com/nice-nano" target="_blank" rel="noreferrer"&gt;nice!nano&lt;/a&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;二极管&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;46&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;SOD-123 或 DO-35&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;重置开关&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;2&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;3*6*5&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;电池开关&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;2&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;MSK-1102-1.5H&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;电池插座&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;2&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;PH2.0 2P&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;电池&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;2&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;3.7V 锂电池（最大 40*50*70）&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;PCB 轴座&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;46&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;兼容标准轴和佳达隆矮轴，如使用 choc 版本 PCB 则兼容凯华矮轴&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;轴体&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;46&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;按照你选择的轴座选择对应轴体&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;键帽&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;46&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;1u 键帽&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;
 
 
@@ -193,7 +193,7 @@
 
 &lt;div class="width-patch"&gt;&lt;/div&gt;
 &lt;div
- id="carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ id="carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -205,7 +205,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="0"
  data-twe-carousel-active aria-current="true"
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -214,7 +214,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="1"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -223,7 +223,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="2"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -232,7 +232,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="3"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -241,7 +241,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="4"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -250,7 +250,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="5"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -259,7 +259,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="6"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -268,7 +268,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="7"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -277,7 +277,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="8"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -286,7 +286,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="9"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -295,7 +295,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="10"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -304,7 +304,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="11"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -313,7 +313,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide-to="12"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -981,7 +981,7 @@
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -1003,7 +1003,7 @@
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1775162841773096513"
+ data-twe-target="#carousel-e17c384dce7f9760b74e1cf0948129d1-1783152433422059092"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -1044,25 +1044,25 @@
  
 &lt;/h3&gt;
 &lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th style="text-align: left"&gt;物品&lt;/th&gt;
- &lt;th style="text-align: left"&gt;数量&lt;/th&gt;
- &lt;th style="text-align: left"&gt;备注&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;OLED&lt;/td&gt;
- &lt;td style="text-align: left"&gt;2&lt;/td&gt;
- &lt;td style="text-align: left"&gt;0.91 英寸&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;SK6812MINI-E&lt;/td&gt;
- &lt;td style="text-align: left"&gt;58&lt;/td&gt;
- &lt;td style="text-align: left"&gt;因为它们是串连的，所以需要全部安装&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;物品&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数量&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;备注&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;OLED&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;2&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;0.91 英寸&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;SK6812MINI-E&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;58&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;因为它们是串连的，所以需要全部安装&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;
 
 
@@ -1094,7 +1094,7 @@
 
 &lt;div class="width-patch"&gt;&lt;/div&gt;
 &lt;div
- id="carousel-a7a426bffcd77e47b38c0597aa0b2dea-1775162841774009925"
+ id="carousel-a7a426bffcd77e47b38c0597aa0b2dea-1783152433422951032"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -1106,7 +1106,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-a7a426bffcd77e47b38c0597aa0b2dea-1775162841774009925"
+ data-twe-target="#carousel-a7a426bffcd77e47b38c0597aa0b2dea-1783152433422951032"
  data-twe-slide-to="0"
  data-twe-carousel-active aria-current="true"
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -1115,7 +1115,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-a7a426bffcd77e47b38c0597aa0b2dea-1775162841774009925"
+ data-twe-target="#carousel-a7a426bffcd77e47b38c0597aa0b2dea-1783152433422951032"
  data-twe-slide-to="1"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -1124,7 +1124,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-a7a426bffcd77e47b38c0597aa0b2dea-1775162841774009925"
+ data-twe-target="#carousel-a7a426bffcd77e47b38c0597aa0b2dea-1783152433422951032"
  data-twe-slide-to="2"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -1292,7 +1292,7 @@
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-a7a426bffcd77e47b38c0597aa0b2dea-1775162841774009925"
+ data-twe-target="#carousel-a7a426bffcd77e47b38c0597aa0b2dea-1783152433422951032"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -1314,7 +1314,7 @@
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-a7a426bffcd77e47b38c0597aa0b2dea-1775162841774009925"
+ data-twe-target="#carousel-a7a426bffcd77e47b38c0597aa0b2dea-1783152433422951032"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -1355,30 +1355,30 @@
  
 &lt;/h4&gt;
 &lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th style="text-align: left"&gt;物品&lt;/th&gt;
- &lt;th style="text-align: left"&gt;数量&lt;/th&gt;
- &lt;th style="text-align: left"&gt;备注&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;M2 螺柱 12mm&lt;/td&gt;
- &lt;td style="text-align: left"&gt;4&lt;/td&gt;
- &lt;td style="text-align: left"&gt;用于垫高 OLED 盖板&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;M2 螺丝&lt;/td&gt;
- &lt;td style="text-align: left"&gt;24&lt;/td&gt;
- &lt;td style="text-align: left"&gt;至少 3mm&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td style="text-align: left"&gt;脚垫&lt;/td&gt;
- &lt;td style="text-align: left"&gt;任意&lt;/td&gt;
- &lt;td style="text-align: left"&gt;防滑&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;物品&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;数量&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;备注&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;M2 螺柱 12mm&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;4&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;用于垫高 OLED 盖板&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;M2 螺丝&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;24&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;至少 3mm&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;脚垫&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;任意&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;防滑&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img
  class="my-0 rounded-md"
@@ -1388,8 +1388,8 @@
  alt="Rubber"
  width="3178"
  height="550"
- src="https://nand.fun/posts/owl-keyboard-materials/rubber_hu_45783bd143a488b1.webp"
- srcset="https://nand.fun/posts/owl-keyboard-materials/rubber_hu_45783bd143a488b1.webp 800w, https://nand.fun/posts/owl-keyboard-materials/rubber_hu_3c3da20a8eb5a8cf.webp 1280w"
+ src="https://nand.fun/posts/owl-keyboard-materials/rubber_hu_76de2ce6b82c193b.webp"
+ srcset="https://nand.fun/posts/owl-keyboard-materials/rubber_hu_76de2ce6b82c193b.webp 800w, https://nand.fun/posts/owl-keyboard-materials/rubber_hu_730f15371755322a.webp 1280w"
  sizes="(min-width: 768px) 50vw, 65vw"
  data-zoom-src="https://nand.fun/posts/owl-keyboard-materials/rubber.webp"&gt;&lt;/figure&gt;
 &lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nand.fun/posts/owl-keyboard-materials/feature.webp"/></item><item><title>Owl 键盘：概述</title><link>https://nand.fun/posts/owl-keyboard-overview/</link><pubDate>Tue, 13 Aug 2024 01:04:03 +0800</pubDate><author>hza2002@foxmail.com (按点下班)</author><guid>https://nand.fun/posts/owl-keyboard-overview/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl"&gt;
